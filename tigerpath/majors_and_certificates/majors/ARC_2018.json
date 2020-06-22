@@ -1,0 +1,169 @@
+{
+  "type": "Major",
+  "name": "Architecture",
+  "code": "ARC",
+  "degree": "AB",
+  "year": 2018,
+  "urls": [
+    "https://ua.princeton.edu/academic-units/school-architecture",
+    "http://soa.princeton.edu/"
+  ],
+  "contacts": [
+    {
+      "type": "Dean",
+      "name": "Mónica Ponce de León",
+      "email": "mpdl@princeton.edu"
+    },
+    {
+      "type": "Associate Dean",
+      "name": "Paul Lewis",
+      "email": "paul@ltlarchitects.com"
+    },
+    {
+      "type": "Director of Undergraduate Studies",
+      "name": "Mario I. Gandelsonas",
+      "email": "mgndlsns@princeton.edu"
+    }
+  ],
+  "req_list": [
+    {
+      "name": "Prerequisites",
+      "max_counted": 1,
+      "min_needed": "ALL",
+      "explanation": "Students who wish to concentrate in architecture are required to complete two courses during their first year or sophomore year: ARC 203 Introduction to Architectural Thinking and ARC 204 Introduction to Architectural Design. The courses do not need to be taken in sequence. At least one course in architectural history, taken in either the School of Architecture or the Department of Art and Archaeology, is recommended but not required to be completed before their junior year.",
+      "completed_by_semester": 4,
+      "course_list": [
+        "ARC 203",
+        "ARC 204"
+      ]
+    },
+    {
+      "name": "Departmentals",
+      "max_counted": 1,
+      "min_needed": "ALL",
+      "explanation": "In addition to the general prerequisites and the requirements for independent work, each student is required to complete ten courses in three related areas: history and theory, technology, and design. The History and Theory distribution requires six courses: three History and Theory of Architecture courses, two of which are ARC 308 and ARC 403; two courses in History and Theory of Urbanism and Landscape; and at least two upper level courses to be taken in the Department of Art and Archaeology. The Technology distribution requires two courses, one of which is ARC 311: Building Science and Technology–Building Systems. The Design Seminar distribution requires two courses, one of which must be ARC 206.\n\nArchitecture concentrators take the following sequence of courses in their junior and senior year: Junior Studio, which consists of ARC 350 and ARC 351, and two required history and theory courses: ARC 308: History of Architectural Theory (taken in the fall of the junior year) and ARC 403: Topics in the History and Theory of Architecture in the fall semester of the senior year. These courses introduce methodologies of historical analysis and research, the literature of the field, and varieties of architectural writing.\n\nIn the fall semester of their senior year, students are required to enroll in ARC 404: Advanced Design Studio. ARC 404 is centered around independent design projects in that synthesize students’ training and interests and investigate new approaches to representation.",
+      "req_list": [
+        {
+          "name": "History and Theory of Architecture",
+          "max_counted": 1,
+          "min_needed": "ALL",
+          "explanation": null,
+          "req_list": [
+            {
+              "name": "Required Courses",
+              "max_counted": 1,
+              "min_needed": "ALL",
+              "explanation": null,
+              "course_list": [
+                "ARC 308",
+                "ARC 403"
+              ]
+            },
+            {
+              "name": "Electives",
+              "max_counted": 1,
+              "min_needed": 1,
+              "explanation": null,
+              "course_list": [
+                "ARC *"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "History and Theory of Urbanism and Landscape",
+          "max_counted": 1,
+          "min_needed": 2,
+          "explanation": null,
+          "course_list": [
+            "ARC *"
+          ]
+        },
+        {
+          "name": "Art and Archaeology",
+          "max_counted": 1,
+          "min_needed": 2,
+          "explanation": null,
+          "course_list": [
+            "ART 3*",
+            "ART 4*",
+            "ART 5*"
+          ]
+        },
+        {
+          "name": "Building Technology",
+          "max_counted": 1,
+          "min_needed": "ALL",
+          "explanation": null,
+          "req_list": [
+            {
+              "name": "Required Courses",
+              "max_counted": 1,
+              "min_needed": "ALL",
+              "explanation": null,
+              "course_list": [
+                "ARC 311"
+              ]
+            },
+            {
+              "name": "Electives",
+              "max_counted": 1,
+              "min_needed": 1,
+              "explanation": null,
+              "course_list": [
+                "ARC *"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Design Seminar",
+          "max_counted": 1,
+          "min_needed": "ALL",
+          "explanation": null,
+          "course_list": [
+            "ARC 206"
+          ]
+        },
+        {
+          "name": "Design Studios",
+          "max_counted": 1,
+          "min_needed": "ALL",
+          "explanation": null,
+          "course_list": [
+            "ARC 350",
+            "ARC 351",
+            "ARC 404"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Independent Work",
+      "max_counted": 1,
+      "min_needed": "ALL",
+      "explanation": "The junior independent work requirement is satisfied by a paper (about 30 pages) selected by the student in consultation with a faculty member. The work is initiated in the fall (topic, outline and bibliography) and completed in the spring. Students work throughout the year in consultation with their faculty adviser. A Ph.D. student mentor also provides writing support.",
+      "course_list": [
+        "ARC 981"
+      ]
+    },
+    {
+      "name": "Senior Thesis",
+      "max_counted": 1,
+      "min_needed": "ALL",
+      "explanation": "The senior thesis in architecture is a year-long project that begins with ARC 403 in the fall semester. Faculty thesis advisers are assigned at the end of the fall term of the senior year, and students work closely with their adviser to formulate their topic, define research methods, organize thesis material, and refine the presentation of the scholarship.\n\nThe senior thesis is intended to be a detailed project, presenting a well-argued piece of research on a precise architectural theme, and may include several forms of representation. For example, students commonly utilize architectural drawings, models, video, photographs, and computer-generated drawings and models. The final presentation and oral defense of the senior thesis in the spring constitutes a section of the departmental examination.",
+      "course_list": [
+        "ARC 983"
+      ]
+    },
+    {
+      "name": "Senior Departmental Exam",
+      "max_counted": 1,
+      "min_needed": "ALL",
+      "explanation": "All students in the architecture program take the departmental examination [DC1] in May of their senior year. The exam consists of a dialog with one’s advisor and second reader around the thesis itself and a brief (10-15 min) presentation summarizing the student’s principal questions, findings, and contribution to existing research. Students typically show images and highlight what was most interesting and exciting about the project.",
+      "course_list": [
+        "ARC 984"
+      ]
+    }
+  ]
+}
