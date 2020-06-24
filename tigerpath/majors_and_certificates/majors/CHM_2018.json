@@ -173,6 +173,9 @@
           "max_counted": 3,
           "min_needed": 3,
           "explanation": "Students must take three 300-, 400-, or 500-numbered courses in chemistry and at least one term of experimental laboratory instruction at Princeton as departmental core courses. These courses must include at least one term each of organic, physical, and inorganic chemistry.",
+          "excluded_course_list": [
+            "CHM 371"
+          ],
           "course_list": [
             "CHM 3*",
             "CHM 4*",
