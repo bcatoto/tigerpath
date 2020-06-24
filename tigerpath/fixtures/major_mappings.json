@@ -36,7 +36,7 @@
       "name": "Art and Archaeology",
       "code": "ART",
       "degree": "AB",
-      "supported": false
+      "supported": true
     }
   },
   {
@@ -66,7 +66,7 @@
       "name": "Classics",
       "code": "CLA",
       "degree": "AB",
-      "supported": false
+      "supported": true
     }
   },
   {
@@ -76,7 +76,7 @@
       "name": "Comparative Literature",
       "code": "COM",
       "degree": "AB",
-      "supported": false
+      "supported": true
     }
   },
   {
@@ -136,7 +136,7 @@
       "name": "French and Italian",
       "code": "FIT",
       "degree": "AB",
-      "supported": false
+      "supported": true
     }
   },
   {
@@ -146,7 +146,7 @@
       "name": "Geosciences",
       "code": "GEO",
       "degree": "AB",
-      "supported": false
+      "supported": true
     }
   },
   {
@@ -156,7 +156,7 @@
       "name": "German",
       "code": "GER",
       "degree": "AB",
-      "supported": false
+      "supported": true
     }
   },
   {
@@ -196,7 +196,7 @@
       "name": "Music",
       "code": "MUS",
       "degree": "AB",
-      "supported": false
+      "supported": true
     }
   },
   {
@@ -206,7 +206,7 @@
       "name": "Near Eastern Studies",
       "code": "NES",
       "degree": "AB",
-      "supported": false
+      "supported": true
     }
   },
   {
@@ -266,7 +266,7 @@
       "name": "Religion",
       "code": "REL",
       "degree": "AB",
-      "supported": false
+      "supported": true
     }
   },
   {
@@ -276,7 +276,7 @@
       "name": "Slavic Languages and Literatures",
       "code": "SLA",
       "degree": "AB",
-      "supported": false
+      "supported": true
     }
   },
   {
@@ -296,7 +296,7 @@
       "name": "Spanish and Portuguese",
       "code": "SPO",
       "degree": "AB",
-      "supported": false
+      "supported": true
     }
   },
   {
