@@ -25,7 +25,6 @@
       "name": "Prerequisites",
       "max_counted": 1,
       "min_needed": "ALL",
-      "description": "Prerequisites",
       "explanation": "To enter the department, a student must complete, by the end of sophomore year, the prerequisite courses ECO 100, ECO 101, ECO 202 (or equivalent), and MAT (175 or equivalent), earning a letter grade of C or better in each course. ORF 245 can be substituted for ECO 202. POL 345 followed by POL 346 can also be used to satisfy our statistics pre-requirement. (POL 345 alone is not sufficient). PSY 251, WWS 200 and SOC 301 are also not sufficient. The statistics pre-requirement cannot be satisfied with summer courses taken after the student has begun studies at Princeton, except in unusual circumstances approved by the departmental representative, Professor Smita Brunnermeier (smita@princeton.edu).",
       "completed_by_semester": 4,
       "req_list": [
@@ -86,7 +85,6 @@
               "name": null,
               "max_counted": 1,
               "min_needed": null,
-              "description": null,
               "explanation": null,
               "course_list": [
                 "MAT 175"
@@ -96,7 +94,6 @@
               "name": null,
               "max_counted": 1,
               "min_needed": "ALL",
-              "description": null,
               "explanation": null,
               "course_list": [
                 "MAT 201",
@@ -107,7 +104,6 @@
               "name": null,
               "max_counted": 1,
               "min_needed": "ALL",
-              "description": null,
               "explanation": null,
               "course_list": [
                 "MAT 203",
@@ -161,7 +157,6 @@
       "name": "Departmentals",
       "max_counted": 1,
       "min_needed": 5,
-      "description": "Electives Requirement",
       "explanation": "In addition to the three core courses, concentrators must pass, on a graded basis, five other departmental courses. Departmentals can be any 300-, 400-, or 500-level Economics courses, or an approved cognate (see Cognates).\n\nStudents planning a senior thesis with empirical emphasis are strongly encouraged to take ECO 313; students planning a theoretical senior thesis are strongly encouraged to take ECO 317 and/or ECO 418.",
       "req_list": [
         {
@@ -179,7 +174,6 @@
           "name": "Cognates",
           "max_counted": 2,
           "min_needed": null,
-          "description": "Cognates Requirement",
           "explanation": "Economics majors are allowed to count a maximum of two courses from other departments as cognates. These courses need to have substantial economics content. A course with an Economics cross-listing (indicated by an ECO 3XX, ECO 4XX, or ECO 5XX number in its first or second listing) counts as a regular departmental, not as a cognate. Courses that will be automatically recognized by SCORE as cognates are listed below. No application is necessary for these courses.",
           "course_list": [
             "COS 445",
@@ -224,7 +218,6 @@
           "name": "Prerequisites",
           "max_counted": 1,
           "min_needed": 2,
-          "description": "Politics Prerequisites",
           "explanation": "In addition to the two Politics prerequisites, a student in the PPE must complete three Politics departmentals, i.e. Politics courses in the 300-level or higher, on a graded basis.<i>Note:</i> Starting with the class of 2022, POL 345 and POL 346 will not count any longer as POL courses in PPE, as they now can be used to cover the statistics prerequisite for the Economics major.",
           "course_list": [
             "POL *"
@@ -249,7 +242,6 @@
       "name": "Independent Work",
       "max_counted": null,
       "min_needed": null,
-      "description": "Independent Work",
       "explanation": "<i>Editor's Note: Concentrators of this major do not enroll in any numbered course for this requirement, so TigerPath does not check it.</i>\n\nIndependent work is designed to afford concentrators the opportunity to identify and explore their research interests in depth. Students are expected to develop a carefully reasoned exposition that critically analyzes a problem using basic principles of economics. Juniors complete a yearlong research project, which consists of a research prospectus submitted in December and a final paper submitted in April.",
       "no_req": null
     },
@@ -257,7 +249,6 @@
       "name": "Senior Thesis",
       "max_counted": null,
       "min_needed": null,
-      "description": "Senior Thesis",
       "explanation": "<i>Editor's Note: Concentrators of this major do not enroll in any numbered course for this requirement, so TigerPath does not check it.</i>\n\nIndependent work is designed to afford concentrators the opportunity to identify and explore their research interests in depth. Students are expected to develop a carefully reasoned exposition that critically analyzes a problem using basic principles of economics. Unlike junior independent work, the senior thesis is expected to be more extensive, with a topic of greater scope and, correspondingly broader analysis and interpretation.",
       "no_req": null
     }

@@ -266,7 +266,6 @@
       "max_counted": null,
       "min_needed": null,
       "explanation": "<i>Editor's Note: Concentrators of this major do not enroll in any numbered course for this requirement, so TigerPath does not check it.</i>\n\nIn addition to the coursework carried out during the junior year, the student is required to complete two junior papers, each of which is on a research topic of current interest. The purpose of the papers is to give students exposure to how physics research is actually performed by immersing them in journal, as opposed to textbook, literature. Each paper is written in close consultation with a faculty adviser, who is typically performing research in the subject area of the paper. A junior paper may serve as a preliminary investigation of a senior thesis topic. Junior independent work may also be satisfied with a short experimental project.",
-      "description": "Independent Work",
       "no_req": null
     },
     {
@@ -274,7 +273,6 @@
       "min_needed": null,
       "max_counted": null,
       "explanation": "<i>Editor's Note: Concentrators of this major do not enroll in any numbered course for this requirement, so TigerPath does not check it.</i>\n\nIn the senior year, in addition to coursework, students write a senior thesis based on their own research. The topic might be chosen from one of the active experimental or theoretical research fields of the Physics Department, or might be suggested by a faculty member with some subsidiary interest. A student could also choose a topic relating physics and another field, such as biophysics, geophysics, the teaching of physics, history of science, or engineering physics. Students whose main adviser is outside the Physics Department must also have a co-adviser who is a faculty member in the Physics Department.",
-      "description": "Senior Thesis",
       "no_req": null
     }
   ]

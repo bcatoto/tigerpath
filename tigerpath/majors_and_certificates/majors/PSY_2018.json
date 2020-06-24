@@ -145,7 +145,6 @@
       "name": "Independent Work",
       "max_counted": null,
       "min_needed": null,
-      "description": "Independent Work",
       "explanation": "<i>Editor's Note: Concentrators of this major do not enroll in any numbered course for this requirement, so TigerPath does not check it.</i>\n\nThe goal of the junior paper (JP) is to acquaint students with focused study in the field of Psychology; develop proficiency in reading and analyzing the professional literature; develop an independent project as preparation for a thesis, and work in close consultation with a faculty member.\n\nStudents write two JP papers, one in the fall semester and one in the spring. For each JP, the student must also give a presentation midway through the semester showing their progress.",
       "no_req": null
     },
@@ -153,7 +152,6 @@
       "name": "Senior Thesis",
       "max_counted": null,
       "min_needed": null,
-      "description": "Senior Thesis",
       "explanation": "<i>Editor's Note: Concentrators of this major do not enroll in any numbered course for this requirement, so TigerPath does not check it.</i>\n\nEach psychology senior works in close consultation with a faculty advisor to develop, carry out and write a senior thesis.\n\nStudents can conduct an experimental thesis, a computational thesis, or a theoretical thesis. An experimental thesis should include a comprehensive literature review, findings from at least one original research study (an experiment or a field study) with appropriate statistical analyses, and a general discussion of the findings. A computational thesis should include a review of the literature and description and discussion of the computational models that the student has completed. A theoretical thesis should include a comprehensive review of the research literature on a psychology topic of importance, including an extensive evaluation of the findings and original interpretations, theoretical proposals, or a proposed program of research to add further scientific knowledge.",
       "no_req": null
     }

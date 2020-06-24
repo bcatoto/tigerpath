@@ -359,7 +359,6 @@
       "name": "Engineering Science",
       "max_counted": 1,
       "min_needed": 1,
-      "description": "Other courses are possible; consult departmental representative.",
       "explanation": "An engineering course with a significant scientific component must be taken outside of ELE to satisfy this requirement. Many courses can be used to satisfy this requirement; note, however, that a course comprised largely of mathematics or applied mathematics does not satisfy the requirement. The course used to satisfy the Engineering Science requirement cannot also be used to satisfy the concentration requirement or the breadth requirement, nor can it be counted as a Departmental requirement. The following is a non-exhaustive list of possibilities: COS 217, 226, 320, 402, 423, 425, 444, 451, 487; MAE 206, 221, 222, 324, 328, 344, 345, 433, 434; CEE 205, 303, 305, 471; MSE 301, 302; CBE 245, 246, 341, 415, 445, 447; ORF 307, 311, 405, 406, 417",
       "course_list": [
         "COS 217",
@@ -401,7 +400,6 @@
       "name": "Design",
       "max_counted": 1,
       "min_needed": 1,
-      "description": "Independent work may satisfy this requirement, if it contains significant design components.",
       "explanation": "In the junior year, ELE 302 takes each student through all phases of a design project, emphasizing hands-on experience while providing classroom guidance. In addition, at least one upperclass ELE course with substantial engineering design content must be selected from the following: ELE 352, 375, 404, 454, 462, 465, 475, 482, COS 426, 436. This requirement may also be satisfied with junior or senior independent work, if that work contains a substantial design component.",
       "completed_by_semester": 6,
       "course_list": [

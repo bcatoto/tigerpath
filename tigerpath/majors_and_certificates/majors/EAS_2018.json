@@ -198,7 +198,6 @@
       "max_counted": 1,
       "min_needed": "ALL",
       "explanation": "In the fall term the student participates in the departmental junior seminar (EAS 300), and also writes a junior independent work. In the spring, the student writes a second junior independent work under the supervision of an appropriate faculty member. At the end of the junior year, the student begins to draft a proposal for the senior thesis.",
-      "description": "Independent Work",
       "double_counting_allowed": true,
       "course_list": [
         "EAS 300"
@@ -209,7 +208,6 @@
       "max_counted": null,
       "min_needed": null,
       "explanation": "<i>Editor's Note: Concentrators of this major do not enroll in any numbered course for this requirement, so TigerPath does not check it.</i>\n\nEach student prepares a senior thesis in consultation with an appropriate member of the faculty. The senior thesis represents the culmination of the undergraduate curriculum. It should be an original contribution to scholarship on East Asia, based at least in part on source materials in the student's language of specialization.",
-      "description": "Senior Thesis",
       "no_req": null
     }
   ]

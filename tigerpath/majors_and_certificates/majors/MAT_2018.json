@@ -141,7 +141,6 @@
       "max_counted": null,
       "min_needed": null,
       "explanation": "<i>Editor's Note: Concentrators of this major do not enroll in any numbered course for this requirement, so TigerPath does not check it.</i>\n\nThe formal independent work requirements in the Mathematics Department consist of:\n-a junior seminar and a junior paper, one in each term of the junior year\n-or two junior seminars, one in each term of the junior year\n-and a senior thesis in the final year.",
-      "description": "Independent Work",
       "no_req": null
     },
     {
@@ -149,7 +148,6 @@
       "min_needed": null,
       "explanation": "<i>Editor's Note: Concentrators of this major do not enroll in any numbered course for this requirement, so TigerPath does not check it.</i>\n\nThe formal independent work requirements in the Mathematics Department consist of:\n-a junior seminar and a junior paper, one in each term of the junior year\n-or two junior seminars, one in each term of the junior year\n-and a senior thesis in the final year.",
       "max_counted": null,
-      "description": "Senior Thesis",
       "no_req": null
     }
   ]

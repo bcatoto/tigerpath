@@ -25,7 +25,6 @@
       "name": "Prerequisites",
       "max_counted": 1,
       "min_needed": "ALL",
-      "description": "Prerequisites",
       "explanation": null,
       "completed_by_semester": 4,
       "req_list": [
@@ -67,7 +66,6 @@
           "name": "Politics, Sociology or Psychology Prerequisite",
           "max_counted": 1,
           "min_needed": 1,
-          "description": "A course in Politics, Sociology or Psychology",
           "explanation": "Any course with a POL, SOC, or PSY listing or cross-listed course with a POL, SOC or PSY listing. A course taken to meet the statistics requirement cannot be used to meet this requirement.",
           "course_list": [
             "POL *",
@@ -197,8 +195,7 @@
               "name": "Health and Well Being",
               "max_counted": null,
               "min_needed": null,
-              "description": "Health and Well Being",
-              "explanation": "Health and Well Being",
+              "explanation": null,
               "course_list": [
                 "AMS 304",
                 "AMS 306: Issues in American Public Health",
@@ -655,7 +652,7 @@
               "name": "Law and Legal Systems",
               "max_counted": null,
               "min_needed": null,
-              "explanation": "Law and Legal Systems",
+              "explanation": null,
               "course_list": [
                 "AAS 370: Policing Racial Order: The History of U.S. Police Power from Slave Patrols to Drones",
                 "AMS 327",
@@ -688,7 +685,7 @@
               "name": "Political Systems",
               "max_counted": null,
               "min_needed": null,
-              "explanation": "Political Systems",
+              "explanation": null,
               "course_list": [
                 "AMS 327",
                 "ANT 304: Political Anthropology",
@@ -742,7 +739,7 @@
               "name": "Social Networks",
               "max_counted": null,
               "min_needed": null,
-              "explanation": "Social Networks",
+              "explanation": null,
               "course_list": [
                 "COS 445: Networks, Economics and Computing",
                 "COS 461: Computer Networks",
@@ -886,8 +883,7 @@
               "name": "South Asia",
               "max_counted": null,
               "min_needed": null,
-              "description": "South Asia",
-              "explanation": "South Asia",
+              "explanation": null,
               "course_list": [
                 "ANT 332: Power and Politics in Southeast Asia",
                 "ENV 377",
@@ -899,8 +895,7 @@
               "name": "United States of America",
               "max_counted": null,
               "min_needed": null,
-              "description": "United States of America",
-              "explanation": "United States of America",
+              "explanation": null,
               "course_list": [
                 "AAS 322",
                 "AAS 350: Rats, Riots, and Revolution: Housing in the Metropolitan United States",
@@ -946,14 +941,12 @@
       "name": "Independent Work",
       "max_counted": 1,
       "min_needed": 2,
-      "description": "Independent Work",
       "explanation": "To satisfy the junior independent work requirement, each student must complete one policy task force and one policy research seminar in the junior year. The policy research seminar will include a methods laboratory and will also count as a course.\n\nEach student must complete a senior thesis that clearly articulates a research question about a significant public policy issue and draws conclusions that contribute to the debate on that issue.",
       "req_list": [
         {
           "name": "Policy Task Force",
           "max_counted": 1,
           "min_needed": 1,
-          "description": "Policy Task Force",
           "explanation": "In the task forces, a small group of juniors works together with a faculty director, one or two seniors, and, often, a graduate student toward proposing solutions to current problems in public and international affairs. Each junior conducts research on a topic carefully chosen to shed light on the larger problem that is central to the group. The principal collective product is a final report with policy recommendations, drafted after debates among the entire group.",
           "course_list": [
             "WWS 401: Policy Seminars",
@@ -964,7 +957,6 @@
           "name": "Policy Research Seminar",
           "max_counted": 1,
           "min_needed": 1,
-          "description": "Policy Research Seminar",
           "explanation": "In the policy research seminars, a faculty member supervises a small group of students similarly engaged in research on a specific topic in public and international affairs. Students also participate in a methods lab designed to teach them methods for quantitative and qualitative research. An important aim of all of the elements of the research seminar is to prepare students for their senior thesis work.",
           "course_list": [
             "WWS 403: Policy Research Seminar",
@@ -975,7 +967,6 @@
           "name": "Senior Thesis",
           "max_counted": null,
           "min_needed": null,
-          "description": "Senior Thesis",
           "explanation": "Each student must complete a senior thesis that clearly articulates a research question about a significant public policy issue and draws conclusions that contribute to the debate on that issue.",
           "no_req": null
         }
@@ -985,14 +976,12 @@
       "name": "Language Requirement",
       "max_counted": 1,
       "min_needed": 1,
-      "description": "Language Requirement",
       "explanation": "WWS majors must complete at least one foreign language course beyond the current University requirement. This may be done by:\n(1) taking an additional course (200 or 300 level) in the language used to meet the University requirement. Either a language course or a course taught in the foreign language may be used; or\n(2) taking a course at least at the 102 level in a language other than the one used to fulfill the University foreign language requirement.\nCourses used to meet this requirement may be taken at Princeton or elsewhere; all courses must be taken on a graded basis.\nWhen they declare their concentration, students who are bilingual may apply to WWS to have this requirement waived.",
       "req_list": [
         {
           "name": null,
           "max_counted": 1,
           "min_needed": null,
-          "description": "200 or 300 level language course",
           "explanation": "An additional course (200 or 300 level) in the language used to meet the University requirement. Either a language course or a course taught in the foreign language may be used.",
           "note": "LANG stands for any one single language",
           "course_list": [
@@ -1004,7 +993,6 @@
           "name": null,
           "max_counted": 1,
           "min_needed": 1,
-          "description": "Another Language",
           "explanation": "A course at least at the 102 level in a language other than the one used to fulfill the University foreign language requirement.",
           "course_list": [
             "LANG 102",
@@ -1022,7 +1010,6 @@
       "name": "Field Experience",
       "max_counted": null,
       "min_needed": null,
-      "description": "Field Experience",
       "explanation": "Prior to the second semester of the senior year, each student must have completed an approved cross-cultural or field experience. The requirement may be satisfied in a number of ways, including but not limited to:\n\n\n- semester study abroad\n- summer study abroad\n- summer language study abroad\n- policy-relevant summer jobs abroad\n- ROTC training\n- senior thesis research in the field\n- extended service in an underserved community\n- internship involving public policy work in a nonprofit, government, or international agency such as the U.N., the World Bank, the U.S. Congress, or a state or federal agency.\n\nSummer study, language study or thesis research must be done for at least four weeks to qualify as a cross-cultural or field experience (note that to meet the WWS language requirement, eight weeks of summer study is required).\n\nInternships, jobs or community service must be for at least six consecutive weeks, or 240 hours.\nCross-cultural or field experience gained during the freshmen or sophomore year may count toward this requirement. To meet this requirement, all past or proposed work must be approved by the Undergraduate Program Office.",
       "no_req": null
     }

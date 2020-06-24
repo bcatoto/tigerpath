@@ -4,7 +4,7 @@
   "code": "ENG",
   "degree": "AB",
   "year": 2018,
-  "description": "English concentrators from the Class of 2021 forward must take a total of 10 courses: the Junior Seminar (JRS), one course in Literary and Cultural History (LCH), and eight departmental courses. The Junior Seminar is a topical introduction to research methods in the discipline, and prepares students for their independent work. The Literary and Cultural History courses ask questions about tradition and transmission over longer periods, and provide background for more specialized study.",
+  "explanation": "English concentrators from the Class of 2021 forward must take a total of 10 courses: the Junior Seminar (JRS), one course in Literary and Cultural History (LCH), and eight departmental courses. The Junior Seminar is a topical introduction to research methods in the discipline, and prepares students for their independent work. The Literary and Cultural History courses ask questions about tradition and transmission over longer periods, and provide background for more specialized study.",
   "urls": [
     "https://ua.princeton.edu/academic-units/department-english",
     "https://english.princeton.edu/node/5671"
@@ -347,7 +347,6 @@
       "name": "Junior Seminar",
       "max_counted": 1,
       "min_needed": "ALL",
-      "description": "Independent Work",
       "explanation": "The Junior Seminar (ENG 300). The JRS is an introduction to the methods of research and the arts of criticism, taken in the fall of the junior year. During the Sophomore Sign-ins, concentrators can apply to study abroad in London to complete their junior seminar, or they can participate in a lotto draw for placement into one of four seminars at Princeton. The Junior Seminar instructor advises each member of the seminar on class selection for the spring.\n\nThe Junior Paper. English requires one 20-30 page JP, which is begun in conjunction with the Junior Seminar, with the seminar instructor continuing as the independet work adviser throughout the spring.",
       "course_list": [
         "ENG 300"
@@ -357,7 +356,6 @@
       "name": "Senior Thesis",
       "max_counted": null,
       "min_needed": null,
-      "description": "Senior Thesis",
       "explanation": "<i>Editor's Note: Concentrators of this major do not enroll in any numbered course for this requirement, so TigerPath does not check it.</i>\n\nThe Senior Thesis. Theses are 60-75 pages in length, on a topic chosen in collaboration with the thesis adviser. One chapter or 20 pages of the thesis is due in December.",
       "no_req": null
     }
