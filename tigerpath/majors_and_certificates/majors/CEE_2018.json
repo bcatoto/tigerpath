@@ -220,7 +220,7 @@
               "max_counted": 1,
               "min_needed": "ALL",
               "explanation": "Engineering design requirements (two courses)",
-              "req_list": [
+              "course_list": [
                 "CEE 366: Design of Reinforced Concrete Structures",
                 "CEE 461: Design of Large Scale Structures: Buildings"
               ]
@@ -336,7 +336,7 @@
               "name": "Engineering Design",
               "max_counted": 1,
               "min_needed": 2,
-              "explanation": "Engineering design (two courses)null,
+              "explanation": "Engineering design (two courses)",
               "course_list": [
                 "CEE 471: Introduction to Water Pollution Technology",
                 "CEE 477: Engineering Design for Sustainable Development"
