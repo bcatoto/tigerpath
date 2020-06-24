@@ -145,6 +145,7 @@
       "max_counted": 1,
       "min_needed": 1,
       "explanation": "Students must take one advanced CBE course from any 300/400/500-level CBE courses for a grade. Independent work courses, CBE 351, CBE 352, CBE 451, and CBE 452, cannot be used to fulfill this requirement.",
+      "double_counting_allowed": true,
       "course_list": [
         "CBE 3*",
         "CBE 4*",
@@ -185,7 +186,7 @@
           "explanation": null,
           "double_counting_allowed": true,
           "course_list": [
-            "CBE 411/MOL 411"
+            "CBE 411/MOL 411",
             "CBE 419",
             "CBE 433/MSE 424",
             "CBE 438/MOL 438",
@@ -346,6 +347,7 @@
           "max_counted": 1,
           "min_needed": 3,
           "explanation": null,
+          "double_counting_allowed": true,
           "course_list": [
             "MAE 306/MAT 392",
             "MAE 336",
@@ -389,7 +391,7 @@
           "explanation": null,
           "double_counting_allowed": true,
           "course_list": [
-            "CBE 411/MOL 411"
+            "CBE 411/MOL 411",
             "CBE 419",
             "CBE 433/MSE 424",
             "CBE 438/MOL 438",
