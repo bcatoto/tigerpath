@@ -63,9 +63,21 @@
               "name": "Electives",
               "max_counted": 1,
               "min_needed": 1,
-              "explanation": null,
+              "explanation": "<i>Editor's Note: This does not represent a comprehensive list of courses that fulfill this requirement as courses change from semester to semester.</i>",
               "course_list": [
-                "ARC *"
+                "AMS 322/URB 322/ARC 326/AAS 320",
+                "ARC 302/ART 347",
+                "ARC 308/ART 328",
+                "ARC 322",
+                "ARC 489",
+                "ARC 492/URB 492/ENV 492",
+                "ART 102/ARC 209",
+                "ART 341/ARC 341",
+                "ART 445/ARC 445",
+                "ART 466/ARC 466/SPA 466",
+                "ECS 343/POL 406/ARC 343/ART 352",
+                "ECS 376/ARC 376",
+                "HIS 464/ARC 464/ENV 464/URB 464"
               ]
             }
           ]
@@ -74,9 +86,23 @@
           "name": "History and Theory of Urbanism and Landscape",
           "max_counted": 1,
           "min_needed": 2,
-          "explanation": null,
+          "explanation": "<i>Editor's Note: This does not represent a comprehensive list of courses that fulfill this requirement as courses change from semester to semester.</i>",
           "course_list": [
-            "ARC *"
+            "ARC 205/URB 205/LAS 225/ENV 205",
+            "ARC 303",
+            "ARC 312",
+            "ARC 321",
+            "ARC 396/SAS 396/URB 396",
+            "ARC 449",
+            "ARC 492/URB 492/ENV 492",
+            "ART 250",
+            "DAN 310/ARC 380/THR 323/URB 310",
+            "ENV 382",
+            "ENV 424/ARC 424/ART 492",
+            "URB 201/WWS 201/SOC 203/ARC 207",
+            "URB 300/ARC 300/HUM 300/SLA 300",
+            "URB 385/SOC 385/HUM 385/ARC 385",
+            "URB 401/ARC 401"
           ]
         },
         {
@@ -109,9 +135,15 @@
               "name": "Electives",
               "max_counted": 1,
               "min_needed": 1,
-              "explanation": null,
+              "explanation": "<i>Editor's Note: This does not represent a comprehensive list of courses that fulfill this requirement as courses change from semester to semester.</i>",
               "course_list": [
-                "ARC *"
+                "ARC 374",
+                "ARC 406/ENV 406",
+                "CEE 261/ARC 262/EGR 262/URB 262/ART 262",
+                "CEE 312",
+                "CEE 364/ARC 364",
+                "CEE 461",
+                "ENE 202/ARC 208/EGR 208/ENV 206"
               ]
             }
           ]
