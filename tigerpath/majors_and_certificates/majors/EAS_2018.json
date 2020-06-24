@@ -31,7 +31,7 @@
           "name": "Language",
           "max_counted": 1,
           "min_needed": 1,
-          "explanation": null,
+          "explanation": "One year of language study in one East Asian language",
           "req_list": [
             {
               "name": "Chinese",
@@ -95,7 +95,7 @@
           "name": "EAS Course",
           "max_counted": 1,
           "min_needed": 1,
-          "explanation": null,
+          "explanation": "One 200-level EAS course",
           "double_counting_allowed": true,
           "course_list": [
             "EAS 2*"
@@ -128,35 +128,68 @@
       "explanation": "Eight departmental courses (“departmentals”) fulfilling the following requirements",
       "req_list": [
         {
-          "name": "Transnational Courses",
+          "name": "EAS Courses",
           "max_counted": 1,
-          "min_needed": 2,
-          "explanation": "Two of the following transnational courses",
-          "course_list": [
-            "HIS 207/EAS 207",
-            "HIS 208/EAS 208",
-            "HUM 233/EAS 233/COM 233",
-            "HUM 234/EAS 234/COM 234"
-          ]
-        },
-        {
-          "name": "Pre-Modern East Asia",
-          "max_counted": 1,
-          "min_needed": 1,
-          "explanation": "At least one course on pre-modern East Asia\nNote: Either HIS 207 or HUM 233, when taken in fulfillment of (b), may also be used simultaneously towards requirement (c), however the course will only count towards one of the six required EAS-prefix departmentals.",
-          "course_list": [
-            "EAS *"
+          "min_needed": "ALL",
+          "explanation": "Six EAS-prefix courses",
+          "req_list": [
+            {
+              "name": "Junior Seminar",
+              "max_counted": 1,
+              "min_needed": 2,
+              "explanation": "The Junior Seminar (EAS 300) as an introductory methods survey course, generally taken fall of the junior year",
+              "course_list": [
+                "EAS 300"
+              ]
+            },
+            {
+              "name": "Transnational Courses",
+              "max_counted": 1,
+              "min_needed": 2,
+              "explanation": "Two of the following transnational courses",
+              "course_list": [
+                "HIS 207/EAS 207",
+                "HIS 208/EAS 208",
+                "HUM 233/EAS 233/COM 233",
+                "HUM 234/EAS 234/COM 234"
+              ]
+            },
+            {
+              "name": "Pre-Modern East Asia",
+              "max_counted": 1,
+              "min_needed": 1,
+              "explanation": "<i>Editor's Note: Most of these courses fall under this requirement but as TigerPath does not verify this.</i>\n\nAt least one course on pre-modern East Asia\nNote: Either HIS 207 or HUM 233, when taken in fulfillment of (b), may also be used simultaneously towards requirement (c), however the course will only count towards one of the six required EAS-prefix departmentals.",
+              "course_list": [
+                "EAS *"
+              ]
+            },
+            {
+              "name": "General",
+              "max_counted": 1,
+              "min_needed": 2,
+              "explanation": null,
+              "excluded_course_list": [
+                "EAS 300"
+              ],
+              "course_list": [
+                "EAS *"
+              ]
+            }
           ]
         },
         {
           "name": "Additional Courses",
           "max_counted": 1,
           "min_needed": 2,
-          "explanation": "Two additional courses, which may be\n-Regularly offered 200-level EAS gateway courses (see the list below).\n-Other EAS courses including courses cross-listed with EAS\n-Cognate courses approved by the Director of Undergraduate Studies\n-Language courses at or above the 300 level (after the three-year proficiency requirement is fulfilled)\n-Any second East Asian language courses",
+          "explanation": "Two additional courses, which may be\n- Regularly offered 200-level EAS gateway courses (see the list below).\n- Other EAS courses including courses cross-listed with EAS\n- Cognate courses approved by the Director of Undergraduate Studies\n- Language courses at or above the 300 level (after the three-year proficiency requirement is fulfilled)\n- Any second East Asian language courses",
+          "excluded_course_list": [
+            "EAS 300"
+          ],
           "course_list": [
             "EAS *",
             "LANG 3*",
             "LANG 4*",
+            "LANG 5*",
             "CHI 101",
             "CHI 102",
             "CHI 103",

@@ -36,7 +36,7 @@
           "req_list": [
             {
               "name": null,
-              "max_counted": 1,
+              "max_counted": null,
               "min_needed": "ALL",
               "explanation": null,
               "course_list": [
@@ -55,7 +55,7 @@
                   "max_counted": 1,
                   "min_needed": null,
                   "explanation": null,
-                  "req_list": [
+                  "course_list": [
                     "ECO 202",
                     "ORF 245"
                   ]
@@ -65,7 +65,7 @@
                   "max_counted": 1,
                   "min_needed": "ALL",
                   "explanation": null,
-                  "req_list": [
+                  "course_list": [
                     "POL 345",
                     "POL 346"
                   ]
@@ -162,7 +162,7 @@
         {
           "name": "Economics Electives",
           "max_counted": null,
-          "min_needed": null,
+          "min_needed": 3,
           "explanation": null,
           "course_list": [
             "ECO 3*",
@@ -212,7 +212,6 @@
       "max_counted": 1,
       "min_needed": null,
       "explanation": "The Department offers a program in political economy track for Economics concentrators. Program participants meet all the general requirements of Economics concentrators, and, in addition: (1) complete two Politics courses at any level before entering the program; (2) complete three 300-level (or higher) Politics courses during junior and senior years, and (3) conduct junior independent work with a political economy component.\n\nOne Politics course approved as an Economics cognate may also count toward the program’s requirements. Admission to the program takes place at the beginning of the junior year, in consultation with the Political Economy Representative in Economics. Concentrators who successfully complete the program’s requirements receive a certificate in Political Economy from the Department.  The coordinator of the program is Professor Silvia Weyerbrock.",
-      "double_counting_allowed": false,
       "req_list": [
         {
           "name": "Prerequisites",
@@ -231,7 +230,7 @@
           "excluded_course_list": [
             "POL 345",
             "POL 446"
-          ]
+          ],
           "course_list": [
             "POL 3*"
           ]
