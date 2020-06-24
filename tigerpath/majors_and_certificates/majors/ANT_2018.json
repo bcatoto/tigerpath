@@ -53,10 +53,34 @@
               "max_counted": 1,
               "min_needed": "ALL",
               "explanation": null,
-              "course_list": [
-                "ANT 300*",
-                "ANT 301*",
-                "ANT 390*"
+              "req_list": [
+                {
+                  "name": null,
+                  "max_counted": 1,
+                  "min_needed": 1,
+                  "explanation": null,
+                  "course_list": [
+                    "ANT 300*"
+                  ]
+                },
+                {
+                  "name": null,
+                  "max_counted": 1,
+                  "min_needed": 1,
+                  "explanation": null,
+                  "course_list": [
+                    "ANT 301*"
+                  ]
+                },
+                {
+                  "name": null,
+                  "max_counted": 1,
+                  "min_needed": 1,
+                  "explanation": null,
+                  "course_list": [
+                    "ANT 390*"
+                  ]
+                }
               ]
             },
             {
@@ -127,11 +151,49 @@
               "max_counted": 1,
               "min_needed": "ALL",
               "explanation": null,
-              "course_list": [
-                "ANT 240",
-                "ANT 206*",
-                "ANT 300*",
-                "ANT 301*"
+              "req_list": [
+                {
+                  "name": "Foundational Course",
+                  "max_counted": 1,
+                  "min_needed": 1,
+                  "explanation": "ANT 240 Medical Anthropology or ANT 340 Medicine and the Humanities or ANT 461 Disability, Difference, and Race or another approved foundational course. ANT 235, Medical Humanities, in Spring 2018, satisfies this requirement. Students who have taken ANT 235 may also take ANT 340 and ANT 461 as elective courses, but not ANT 240, as Medical Humanities (ANT 235) is considered equivalent to Medical Anthropology (ANT 240).",
+                  "course_list": [
+                    "ANT 240",
+                    "ANT 340",
+                    "ANT 461"
+                  ]
+                },
+                {
+                  "name": "Human Evolution",
+                  "max_counted": 1,
+                  "min_needed": 1,
+                  "explanation": "A course on Human Evolution or ANT 215 Human Adaptation or ANT 309 Forensic Anthropology or ANT 201 (beginning Fall 2020) or a cognate¹ biological course. Note: The department will accept Evolutionary Biology (EEB 309) and Life on Earth (EEB 211/MOL 211) as cognates if taken in AY 2019 to AY 2021 by students declaring the ANT concentration in Spring 2020 or earlier. These courses may be used to substitute for a required biological anthropology course offered by the Anthropology Department.",
+                  "course_list": [
+                    "ANT 215",
+                    "ANT 309",
+                    "ANT 201",
+                    "EEB 309",
+                    "EEB 211/MO"
+                  ]
+                },
+                {
+                  "name": "Ethnography, Evidence, and Experience",
+                  "max_counted": 1,
+                  "min_needed": 1,
+                  "explanation": null,
+                  "course_list": [
+                    "ANT 300*"
+                  ]
+                },
+                {
+                  "name": "The Ethnographer's Craft",
+                  "max_counted": 1,
+                  "min_needed": 1,
+                  "explanation": null,
+                  "course_list": [
+                    "ANT 301*"
+                  ]
+                }
               ]
             },
             {
@@ -154,9 +216,11 @@
                     "GSS 203/ANT 243",
                     "ANT 272",
                     "ANT 305",
-                    "ANT 309*",
+                    "ANT 309A",
+                    "ANT 309B",
                     "EAS 312/ANT 312",
                     "ANT 331",
+                    "ANT 340",
                     "ANT 360",
                     "GHP 304/ANT 376",
                     "AAS 302/ANT 378",
@@ -193,10 +257,34 @@
               "max_counted": 1,
               "min_needed": "ALL",
               "explanation": null,
-              "course_list": [
-                "ANT 300*",
-                "ANT 301*",
-                "ANT 390*"
+              "req_list": [
+                {
+                  "name": null,
+                  "max_counted": 1,
+                  "min_needed": 1,
+                  "explanation": null,
+                  "course_list": [
+                    "ANT 300*"
+                  ]
+                },
+                {
+                  "name": null,
+                  "max_counted": 1,
+                  "min_needed": 1,
+                  "explanation": null,
+                  "course_list": [
+                    "ANT 301*"
+                  ]
+                },
+                {
+                  "name": null,
+                  "max_counted": 1,
+                  "min_needed": 1,
+                  "explanation": null,
+                  "course_list": [
+                    "ANT 390*"
+                  ]
+                }
               ]
             },
             {
