@@ -232,7 +232,7 @@
               "name": "Prerequisites",
               "max_counted": 1,
               "min_needed": 1,
-              "explanation": null,
+              "explanation": "One course from the list below (courses that can serve as prerequisites or satisfy requirement).",
               "course_list": [
                 "ART 200",
                 "ART 202",
@@ -290,7 +290,7 @@
             {
               "name": "Departmentals",
               "max_counted": 1,
-              "min_needed": 8,
+              "min_needed": 2,
               "explanation": "Eight departmental courses are required. These must include one survey course on ancient Greek history (CLA 216, CLA 217) and one survey course on Roman history (CLA 218, CLA 219); two seminars at the 300 level focusing on ancient history (e.g., CLA 326, CLA 327: Topics in Ancient History; CLA 324: Classical Historians and their Philosophies of History; CLA 325: Roman Law); one course on material culture (e.g., ART 202: Greek Art; ART308: Roman Cities and Countryside); two courses focusing in whole or in part on classical civilization (see list below); and one history course on a non-classical pre-nineteenth century civilization (e.g., EAS 335: Early Chinese History to 221; NES 220: Jews, Muslims, and Christians in the Middle Ages; HIS 350 History of France, 1685-1800). Students must also take the Junior Seminar in the fall of their junior year.",
               "req_list": [
                 {
@@ -361,7 +361,6 @@
       "max_counted": null,
       "min_needed": null,
       "explanation": "<i>Editor's Note: Concentrators of this major do not enroll in any numbered course for this requirement, so TigerPath does not check it.</i>\n\nIn the fall term, each student researches and writes a paper of 15 to 20 pages on a topic of their choosing under the direction of a faculty adviser. The Junior Seminar will provide guidance in choosing a topic, structuring an outline, writing, and revising.  In the spring term, students undertake a more ambitious research paper of 20 to 25 pages. Each student again works closely with a member of the faculty on the project, meeting regularly over the course of the spring term for discussion and analysis.",
-      "description": "Independent Work",
       "no_req": null
     },
     {
@@ -369,7 +368,6 @@
       "max_counted": null,
       "min_needed": null,
       "explanation": "<i>Editor's Note: Concentrators of this major do not enroll in any numbered course for this requirement, so TigerPath does not check it.</i>\n\nAt the end of the second term of the junior year, a departmental student is advised to select the subject of the senior thesis after consultation with the DUS. The thesis in its final form must be submitted to the department by April 15 of the senior year.",
-      "description": "Senior Thesis",
       "no_req": null
     }
   ]
