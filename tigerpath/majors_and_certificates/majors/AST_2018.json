@@ -31,19 +31,9 @@
         {
           "name": "Math",
           "max_counted": 1,
-          "min_needed": 4,
-          "explanation": null,
+          "min_needed": "ALL",
+          "explanation": "Mathematics 201, 202 or equivalent",
           "req_list": [
-            {
-              "name": null,
-              "max_counted": 2,
-              "min_needed": null,
-              "explanation": null,
-              "course_list": [
-                "MAT 103",
-                "MAT 104"
-              ]
-            },
             {
               "name": null,
               "max_counted": 1,
@@ -71,46 +61,18 @@
         {
           "name": "Physics",
           "max_counted": 1,
-          "min_needed": "ALL",
-          "explanation": null,
-          "req_list": [
-            {
-              "name": null,
-              "max_counted": 1,
-              "min_needed": 1,
-              "explanation": null,
-              "course_list": [
-                "PHY 103",
-                "PHY 105"
-              ]
-            },
-            {
-              "name": null,
-              "max_counted": 1,
-              "min_needed": 1,
-              "explanation": null,
-              "course_list": [
-                "PHY 104",
-                "PHY 106"
-              ]
-            },
-            {
-              "name": null,
-              "max_counted": 1,
-              "min_needed": 1,
-              "explanation": null,
-              "course_list": [
-                "PHY 205",
-                "PHY 207"
-              ]
-            }
+          "min_needed": 1,
+          "explanation": "Physics 205 or 207",
+          "course_list": [
+            "PHY 205",
+            "PHY 207"
           ]
         },
         {
           "name": "Astrophysical Sciences",
           "max_counted": null,
           "min_needed": null,
-          "explanation": "Strongly recommended",
+          "explanation": "Astrophysical Sciences 204 is strongly recommended.",
           "course_list": [
             "AST 204"
           ]
