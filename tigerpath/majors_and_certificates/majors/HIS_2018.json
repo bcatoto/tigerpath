@@ -4,6 +4,7 @@
   "code": "HIS",
   "degree": "AB",
   "year": 2018,
+  "explanation": "History concentrators must take 10 courses in the Department: two prerequisites and eight other departmental courses. The Junior Seminar counts as a departmental. Students should speak with the Director of Undergraduate Studies if they have questions about satisfying prerequisites or designating cognate courses as departmentals.",
   "urls": [
     "https://ua.princeton.edu/academic-units/department-history",
     "https://history.princeton.edu/academics/undergraduate/current-concentrators"
@@ -38,81 +39,78 @@
               "max_counted": 1,
               "min_needed": 2,
               "explanation": "Students are required to take and pass at least two departmental courses before they enter the department. At least one of these two courses must come from the list of courses designated as prerequisites. Students who have not fulfilled the 200-level prerequisite must take one of the appropriate courses in the fall of their junior year. Humanities 216-217 or 218-219 may be used as a 200-level prerequisite but cannot be counted as one of the ten departmental requirements. CLA 216, CLA 217, CLA 218, and CLA 219 do not satisfy the 200-level prerequisite but will count as departmental courses.\n\nStudents who wish to enter the department but who have not taken two departmental courses before their junior year should consult with the Director of Undergraduate Studies.",
+              "double_counting_allowed": true,
               "completed_by_semester": 4,
               "req_list": [
                 {
-                  "name": null,
+                  "name": "Designated Prerequisite Courses",
                   "max_counted": null,
-                  "min_needed": null,
-                  "explanation": null,
-                  "double_counting_allowed": true,
-                  "course_list": [
-                    "HIS 201",
-                    "HIS 207",
-                    "HIS 208",
-                    "HIS 210",
-                    "HIS 211",
-                    "HIS 212",
-                    "HIS 241",
-                    "HIS 267",
-                    "EGR 277/HIS 277",
-                    "HIS 278",
-                    "HIS 280",
-                    "HIS 281",
-                    "HIS 282",
-                    "HIS 290",
-                    "HIS 291",
-                    "HIS 292"
+                  "min_needed": 1,
+                  "explanation": "At least one of these two courses must come from the list of courses designated as prerequisites. Students who have not fulfilled the 200-level prerequisite must take one of the appropriate courses in the fall of their junior year. Humanities 216-217 or 218-219 may be used as a 200-level prerequisite but cannot be counted as one of the ten departmental requirements.",
+                  "req_list": [
+                    {
+                      "name": null,
+                      "max_counted": null,
+                      "min_needed": null,
+                      "explanation": null,
+                      "course_list": [
+                        "HIS 201",
+                        "HIS 207",
+                        "HIS 208",
+                        "HIS 210",
+                        "HIS 211",
+                        "HIS 212",
+                        "HIS 241",
+                        "HIS 267",
+                        "EGR 277/HIS 277",
+                        "HIS 278",
+                        "HIS 280",
+                        "HIS 281",
+                        "HIS 282",
+                        "HIS 290",
+                        "HIS 291",
+                        "HIS 292"
+                      ]
+                    },
+                    {
+                      "name": null,
+                      "max_counted": 1,
+                      "min_needed": "ALL",
+                      "explanation": null,
+                      "course_list": [
+                        "HUM 216",
+                        "HUM 217"
+                      ]
+                    },
+                    {
+                      "name": null,
+                      "max_counted": 1,
+                      "min_needed": "ALL",
+                      "explanation": null,
+                      "course_list": [
+                        "HUM 218",
+                        "HUM 219"
+                      ]
+                    }
                   ]
                 },
                 {
-                  "name": null,
+                  "name": "History",
                   "max_counted": 1,
                   "min_needed": null,
                   "explanation": null,
-                  "double_counting_allowed": true,
-                  "course_list": [
-                    "HIS *"
-                  ],
-                  "excluded_course_list": [
-                    "HIS 201",
-                    "HIS 207",
-                    "HIS 208",
-                    "HIS 210",
-                    "HIS 211",
-                    "HIS 212",
-                    "HIS 241",
-                    "HIS 267",
-                    "EGR 277/HIS 277",
-                    "HIS 278",
-                    "HIS 280",
-                    "HIS 281",
-                    "HIS 282",
-                    "HIS 290",
-                    "HIS 291",
-                    "HIS 292"
-                  ]
-                },
-                {
-                  "name": null,
-                  "max_counted": 1,
-                  "min_needed": "ALL",
-                  "explanation": null,
-                  "double_counting_allowed": false,
-                  "course_list": [
-                    "HUM 216",
-                    "HUM 217"
-                  ]
-                },
-                {
-                  "name": null,
-                  "max_counted": 1,
-                  "min_needed": "ALL",
-                  "explanation": null,
-                  "double_counting_allowed": false,
-                  "course_list": [
-                    "HUM 218",
-                    "HUM 219"
+                  "req_list": [
+                    {
+                      "name": null,
+                      "max_counted": 1,
+                      "min_needed": null,
+                      "explanation": null,
+                      "course_list": [
+                        "HIS 3*",
+                        "HIS 4*",
+                        "HIS 5*"
+                      ]
+                    }
                   ]
                 }
               ]
@@ -122,7 +120,6 @@
               "max_counted": 1,
               "min_needed": 1,
               "explanation": "To satisfy the department’s Distribution Requirements, students must take at least one course in each of the following four areas: European history (including Russia), United States history (including Afro-American history), Non-western history (including Asian, Near Eastern, Latin American, or African history), Pre-modern history.",
-              "double_counting_allowed": true,
               "req_list": [
                 {
                   "name": "European History",
@@ -415,7 +412,7 @@
               ]
             },
             {
-              "name": "Departmentals",
+              "name": "10 Departmentals",
               "max_counted": 1,
               "min_needed": 10,
               "explanation": "History concentrators must take 10 courses in the Department: two prerequisites and eight other departmental courses. The Junior Seminar counts as a departmental. Students should speak with the Director of Undergraduate Studies if they have questions about satisfying prerequisites or designating cognate courses as departmentals.",
@@ -448,7 +445,7 @@
               "name": "History of Science Courses",
               "max_counted": 1,
               "min_needed": 4,
-              "explanation": null,
+              "explanation": "Four of the History of Science courses.",
               "course_list": [
                 "EGR 277/HIS 277",
                 "HIS 290",
