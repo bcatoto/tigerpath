@@ -39,14 +39,14 @@
         {
           "name": "German Literature",
           "max_counted": 1,
-          "min_needed": "ALL",
+          "min_needed": 8,
           "explanation": "Focuses on the major periods and forms of German literature with emphasis on literary and historical analysis. Students take a minimum of five courses in the department (usually no more than two at the 200 level) and a maximum of three cognate courses in related humanities departments and other disciplines such as Philosophy and Religion.",
           "req_list": [
             {
               "name": "German",
-              "max_counted": 1,
+              "max_counted": null,
               "min_needed": 5,
-              "explanation": null,
+              "explanation": "Students take a minimum of five courses in the department (usually no more than two at the 200 level).",
               "req_list": [
                 {
                   "name": null,
@@ -72,13 +72,10 @@
             },
             {
               "name": "Cognates",
-              "max_counted": 1,
-              "min_needed": 3,
-              "explanation": null,
+              "max_counted": 3,
+              "min_needed": null,
+              "explanation": "A maximum of three cognate courses in related humanities departments and other disciplines such as Philosophy and Religion.",
               "course_list": [
-                "GER 3*",
-                "GER 4*",
-                "GER 5*",
                 "PHI *",
                 "REL *"
               ]
@@ -88,14 +85,14 @@
         {
           "name": "German Philosophy and Intellectual History",
           "max_counted": 1,
-          "min_needed": "ALL",
+          "min_needed": 8,
           "explanation": "Concentrates on philosophy, political and cultural theory, particular intellectual movements and epochs in German-speaking contexts. Students take a minimum of five courses in the German Department (usually no more than two at the 200 level), and a maximum of three relevant cognate courses in History, European Cultural Studies, Religion, or Philosophy.",
           "req_list": [
             {
               "name": "German",
-              "max_counted": 1,
+              "max_counted": null,
               "min_needed": 5,
-              "explanation": null,
+              "explanation": "Students take a minimum of five courses in the German Department (usually no more than two at the 200 level).",
               "req_list": [
                 {
                   "name": null,
@@ -121,13 +118,10 @@
             },
             {
               "name": "Cognates",
-              "max_counted": 1,
-              "min_needed": 3,
-              "explanation": null,
+              "max_counted": 3,
+              "min_needed": null,
+              "explanation": "A maximum of three relevant cognate courses in History, European Cultural Studies, Religion, or Philosophy.",
               "course_list": [
-                "GER 3*",
-                "GER 4*",
-                "GER 5*",
                 "HIS *",
                 "ECS *",
                 "PHI *",
@@ -139,14 +133,14 @@
         {
           "name": "Media & Aesthetics",
           "max_counted": 1,
-          "min_needed": "ALL",
+          "min_needed": 8,
           "explanation": "Designed for students who wish to focus on art, film, music, sound technology, and/or media theory broadly conceived. Students take a minimum of five courses in the German Department (usually no more than two at the 200 level), and a maximum of three relevant cognate courses in Art & Archaeology, Music, Philosophy, European Cultural Studies, and the Program in Visual Arts.",
           "req_list": [
             {
               "name": "German",
-              "max_counted": 1,
+              "max_counted": null,
               "min_needed": 5,
-              "explanation": null,
+              "explanation": "Students take a minimum of five courses in the German Department (usually no more than two at the 200 level).",
               "req_list": [
                 {
                   "name": null,
@@ -172,13 +166,10 @@
             },
             {
               "name": "Cognates",
-              "max_counted": 1,
-              "min_needed": 3,
-              "explanation": null,
+              "max_counted": 3,
+              "min_needed": null,
+              "explanation": "A maximum of three relevant cognate courses in Art & Archaeology, Music, Philosophy, European Cultural Studies, and the Program in Visual Arts.",
               "course_list": [
-                "GER 3*",
-                "GER 4*",
-                "GER 5*",
                 "ART *",
                 "MUS *",
                 "PHI *",
@@ -195,46 +186,38 @@
           "explanation": "Concentrates on the history and structure of the German language. Majors who select this track are required to take Linguistics 213 (Introduction to Language and Linguistics) or a comparable course in linguistics, and two seminars related to topics in Germanic linguistics: GER 505 (History of the German Language) or GER 508, and GER 506 (Second Language Acquisition and Pedagogy) or GER 316. In addition, such students will take at least three other courses in German literature and culture (usually no more than two at the 200 level), as well as two cognate courses.",
           "req_list": [
             {
-              "name": "Required",
+              "name": "Linguistics",
               "max_counted": 1,
               "min_needed": "ALL",
-              "explanation": null,
+              "explanation": "Majors who select this track are required to take Linguistics 213 (Introduction to Language and Linguistics) or a comparable course in linguistics.",
+              "course_list": [
+                "LIN 213",
+              ]
+            },
+            {
+              "name": "Germanic Linguistics",
+              "max_counted": 1,
+              "min_needed": "ALL",
+              "explanation": "Two seminars related to topics in Germanic linguistics: GER 505 (History of the German Language) or GER 508, and GER 506 (Second Language Acquisition and Pedagogy) or GER 316.",
               "req_list": [
                 {
-                  "name": "Linguistics",
+                  "name": null,
                   "max_counted": 1,
-                  "min_needed": "ALL",
+                  "min_needed": null,
                   "explanation": null,
                   "course_list": [
-                    "LIN 213",
+                    "GER 505",
+                    "GER 508"
                   ]
                 },
                 {
-                  "name": "Germanic Linguistics",
+                  "name": null,
                   "max_counted": 1,
-                  "min_needed": "ALL",
+                  "min_needed": null,
                   "explanation": null,
-                  "req_list": [
-                    {
-                      "name": null,
-                      "max_counted": 1,
-                      "min_needed": null,
-                      "explanation": null,
-                      "course_list": [
-                        "GER 505",
-                        "GER 508"
-                      ]
-                    },
-                    {
-                      "name": null,
-                      "max_counted": 1,
-                      "min_needed": null,
-                      "explanation": null,
-                      "course_list": [
-                        "GER 506",
-                        "GER 316"
-                      ]
-                    }
+                  "course_list": [
+                    "GER 506",
+                    "GER 316"
                   ]
                 }
               ]
@@ -243,7 +226,7 @@
               "name": "German",
               "max_counted": 1,
               "min_needed": 3,
-              "explanation": null,
+              "explanation": "Students will take at least three other courses in German literature and culture (usually no more than two at the 200 level).",
               "req_list": [
                 {
                   "name": null,
@@ -271,8 +254,11 @@
               "name": "Cognates",
               "max_counted": 1,
               "min_needed": 2,
-              "explanation": null,
+              "explanation": "Two cognate courses.",
               "course_list": [
+                "GER 3*",
+                "GER 4*",
+                "GER 5*",
                 "LIN *"
               ]
             }
@@ -288,7 +274,7 @@
               "name": "German",
               "max_counted": 1,
               "min_needed": 5,
-              "explanation": null,
+              "explanation": "Consists of five courses in the German Department (usually no more than two at the 200 level).",
               "req_list": [
                 {
                   "name": null,
@@ -316,7 +302,7 @@
               "name": "Cognates",
               "max_counted": 1,
               "min_needed": 3,
-              "explanation": "<i>Editor's Note: Most of these courses fall under this requirement but as TigerPath does not verify this.</i>",
+              "explanation": "<i>Editor's Note: Most of these courses fall under this requirement but as TigerPath does not verify this.</i>\n\nThree upper-level courses in a second literature.",
               "course_list": [
                 "LANG 3*",
                 "LANG 4*",
@@ -341,7 +327,7 @@
               "name": "German",
               "max_counted": 1,
               "min_needed": 4,
-              "explanation": null,
+              "explanation": "Four courses will be taken in the German Department (usually no more than two at the 200 level), on topics pertaining to German literature and culture.",
               "req_list": [
                 {
                   "name": null,
@@ -369,7 +355,7 @@
               "name": "Politics",
               "max_counted": 1,
               "min_needed": 4,
-              "explanation": "<i>Editor's Note: Most of these courses fall under this requirement but as TigerPath does not verify this.</i>",
+              "explanation": "<i>Editor's Note: Most of these courses fall under this requirement but as TigerPath does not verify this.</i>\n\nFour courses will be taken in the Department of Politics (usually no more than two at the 200 level), on topics pertaining to German/European politics or political theory.",
               "req_list": [
                 {
                   "name": null,
@@ -377,9 +363,9 @@
                   "min_needed": null,
                   "explanation": null,
                   "course_list": [
-                    "GER 3*",
-                    "GER 4*",
-                    "GER 5*"
+                    "POL 3*",
+                    "POL 4*",
+                    "POL 5*"
                   ]
                 },
                 {
@@ -388,11 +374,11 @@
                   "min_needed": null,
                   "explanation": null,
                   "course_list": [
-                    "GER 2*"
+                    "POL 2*"
                   ]
                 }
               ]
-            },
+            }
           ]
         }
       ]
@@ -402,7 +388,7 @@
       "max_counted": 1,
       "min_needed": 1,
       "explanation": "Independent reading, the junior year seminar, the junior year essay, and the senior thesis constitute the student's total independent work, which is spread over the four upper-class terms. These elements can be profitably linked with departmental courses. Students will consult with the departmental representative under whose guidance they will develop their own program. During the first term of the junior year, students are required to take the Junior Seminar GER 300 which serves as an intensive workshop of research and writing skills, an introduction to a wide range of approaches and methods, and an incubator for the Spring Term Junior Paper, an essay of approximately 4,000 words on a subject in German philosophy, art, media, linguistics, literature, or politics. This essay, as well as the senior thesis, may be written in German or English. Early in May of the junior year students should discuss plans for their senior theses with the departmental representative.",
-      "req_list": [
+      "course_list": [
         "GER 300"
       ]
     },
