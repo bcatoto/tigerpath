@@ -26,7 +26,7 @@
       "max_counted": 1,
       "min_needed": "ALL",
       "explanation": "The Department of Ecology and Evolutionary Biology requires the following prerequisites, which should normally be completed by the end of sophomore year.",
-      "completed_by_semester": 4
+      "completed_by_semester": 4,
       "req_list": [
         {
           "name": "Biology",
@@ -66,7 +66,7 @@
               "max_counted": null,
               "min_needed": null,
               "explanation": null,
-              "req_list": [
+              "course_list": [
                 "CHM 202"
               ]
             },
@@ -75,7 +75,7 @@
               "max_counted": 1,
               "min_needed": null,
               "explanation": null,
-              "req_list": [
+              "course_list": [
                 "CHM 201",
                 "CHM 207"
               ]
@@ -85,7 +85,7 @@
               "max_counted": 2,
               "min_needed": null,
               "explanation": null,
-              "req_list": [
+              "course_list": [
                 "CHM 215"
               ]
             }
@@ -136,24 +136,13 @@
       ]
     },
     {
-      "name": "Required Core",
-      "max_counted": 1,
-      "min_needed": "ALL",
-      "explanation": "All EEB concentrators must take EEB 309 and EEB 321 in the fall of their junior year or earlier.",
-      "completed_by_semester": 5,
-      "course_list": [
-        "EEB 309",
-        "EEB 321"
-      ]
-    },
-    {
       "name": "Courses Requirements",
       "max_counted": 1,
       "min_needed": "ALL",
       "explanation": "A minimum of 8 courses are required. You must receive a C- or better for departmental credit.",
       "req_list": [
         {
-          "name": "Required",
+          "name": "Required Courses",
           "max_counted": 1,
           "min_needed": "ALL",
           "explanation": "EEB 309 and EEB 321 are required",
@@ -173,7 +162,7 @@
               "max_counted": 1,
               "min_needed": 1,
               "explanation": null,
-              "req_list": [
+              "course_list": [
                 "EEB 313",
                 "EEB 314",
                 "EEB 329",
@@ -187,7 +176,7 @@
               "max_counted": 1,
               "min_needed": 1,
               "explanation": null,
-              "req_list": [
+              "course_list": [
                 "EEB 304",
                 "EEB 327",
                 "EEB 328",
@@ -199,7 +188,7 @@
               "max_counted": 1,
               "min_needed": 1,
               "explanation": null,
-              "req_list": [
+              "course_list": [
                 "EEB 303",
                 "EEB 308",
                 "EEB 380",
@@ -211,7 +200,7 @@
               "max_counted": 1,
               "min_needed": 1,
               "explanation": null,
-              "req_list": [
+              "course_list": [
                 "EEB 324",
                 "EEB 325"
               ]
@@ -222,11 +211,30 @@
           "name": "Upper Level Courses",
           "max_counted": 1,
           "min_needed": 4,
-          "explanation": "4 additional upper level (300+) EEB courses",
-          "course_list": [
-            "EEB 3*",
-            "EEB 4*",
-            "EEB 5*"
+          "explanation": "4 additional upper level (300+) EEB courses. (CHM 301 and either MOL 345 or MOL 380 can count as departmentals. Other MOL courses with prior permission of the Department Representative).",
+          "req_list": [
+            {
+              "name": null,
+              "max_counted": null,
+              "min_needed": null,
+              "explanation": null,
+              "course_list": [
+                "EEB 3*",
+                "EEB 4*",
+                "EEB 5*",
+                "CHM 301"
+              ]
+            },
+            {
+              "name": null,
+              "max_counted": 1,
+              "min_needed": null,
+              "explanation": null,
+              "course_list": [
+                "MOL 345",
+                "MOL 380"
+              ]
+            }
           ]
         }
       ]
