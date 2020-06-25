@@ -45,6 +45,7 @@
           "max_counted": 0,
           "min_needed": null,
           "explanation": "Students are also strongly encouraged to complete at least one advanced-language course (FRE 207, 207F or 208; ITA 207I, 208) prior to admission, or shortly thereafter, which can then be counted toward the concentration. FIT recommends that students complete at least one more 200-level course (such as FRE 211, 215, 217, 221, 222, 224, 225, 230, or ITA 208, 209, 220, 225) before enrolling in a 300-level course.",
+          "double_counting_allowed": true,
           "course_list": [
             "FRE 207",
             "FRE 207F",
@@ -65,19 +66,19 @@
       ]
     },
     {
-      "name:" "Concentration",
+      "name": "Concentration",
       "max_counted": 1,
       "min_needed": "ALL",
       "explanation": "Eight upper-division courses are counted towards concentration. At least five of these must be in the language and subject of concentration. Up to two of the five departmental courses may be taken at the 200-level (but FRE 207 and 208, or ITA 207 and 208, cannot both be counted).",
       "req_list": [
         {
-          "name:" "Any Level",
+          "name": "Any Level",
           "max_counted": 1,
           "min_needed": 2,
           "explanation": "Up to two of the five departmental courses may be taken at the 200-level (but FRE 207 and 208, or ITA 207 and 208, cannot both be counted).",
           "req_list": [
             {
-              "name:" null,
+              "name": null,
               "max_counted": null,
               "min_needed": null,
               "explanation": null,
@@ -93,7 +94,7 @@
               ]
             },
             {
-              "name:" null,
+              "name": null,
               "max_counted": 1,
               "min_needed": null,
               "explanation": null,
@@ -107,7 +108,7 @@
           ]
         },
         {
-          "name:" "Upper Level",
+          "name": "Upper Level",
           "max_counted": 1,
           "min_needed": 3,
           "explanation": null,
