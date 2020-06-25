@@ -287,7 +287,7 @@
                   "min_needed": 1,
                   "explanation": "One statistics requirement, to be completed by the end of the junior year (GEO 422 or ORG 245).",
                   "completed_by_semester": 6,
-                  "req_list": [
+                  "course_list": [
                     "GEO 422",
                     "ORF 245"
                   ]
