@@ -4,10 +4,10 @@
   "code": "ENG",
   "degree": "AB",
   "year": 2018,
-  "explanation": "English concentrators from the Class of 2021 forward must take a total of 10 courses: the Junior Seminar (JRS), one course in Literary and Cultural History (LCH), and eight departmental courses. The Junior Seminar is a topical introduction to research methods in the discipline, and prepares students for their independent work. The Literary and Cultural History courses ask questions about tradition and transmission over longer periods, and provide background for more specialized study.",
+  "explanation": "English concentrators must take a total of 10 courses: the Junior Seminar (JRS), and nine departmental courses. The Junior Seminar is a topical introduction to research methods in the discipline, and prepares students for their independent work. Of the remaining nine required courses, one is in Literary and Cultural History (LCH); these courses ask questions about tradition and transmission over longer periods, and provide background for more specialized study. Five courses meet distribution requirements, and three more are additional ENG or ENG cross-listed courses.",
   "urls": [
     "https://ua.princeton.edu/academic-units/department-english",
-    "https://english.princeton.edu/node/5671"
+    "https://english.princeton.edu/undergraduate/program"
   ],
   "contacts": [
     {
@@ -28,16 +28,15 @@
       "min_needed": 1,
       "explanation": "There are no specific prerequisite courses for the concentration in English, but prospective concentrators should take at least one course in English in the first and second years. The department offers several 200-level Gateway Courses each year, both lectures and seminars, which are a particularly good way to begin, although they can be taken at any time.",
       "double_counting_allowed": true,
-      "req_list": [
+      "course_list": [
         "ENG 2*"
       ]
     },
     {
       "name": "Distribution Requirements",
       "max_counted": 1,
-      "min_needed": 8,
+      "min_needed": "ALL",
       "explanation": "Departmental distribution requirements ensure breadth in each concentrator's program of study. Everyone must take at least one course in each of the following areas for a total of 10 courses: Literary and Cultural History (LCH), Literature and Culture before 1700 (pre-1700), Literature and Culture from 1700-1900 (1700-1900), Literature and Culture from 1900-present (post-1900), Difference and Diversity (D&D), Theory and Criticism provides tools for thinking critically across all these periods, identities, and genres (T&C), Junior Seminar (ENG 300), Three additional ENG or ENG cross-listed courses",
-      "double_counting_allowed": false,
       "req_list": [
         {
           "name": "Literary and Cultural History",
@@ -56,9 +55,9 @@
           "name": "Literature and Culture before 1700",
           "max_counted": 1,
           "min_needed": 1,
-          "explanation": "Modernity (one course in literature after 1800) brings them up to date.",
+          "explanation": null,
           "course_list": [
-            "ENG 310/MED 210"
+            "ENG 310/MED 210",
             "ENG 311/MED 309",
             "ENG 312/MED 312",
             "ENG 313/MED 315/COM 358",
@@ -78,7 +77,7 @@
           "name": "Literature and Culture from 1700-1900",
           "max_counted": 1,
           "min_needed": 1,
-          "explanation": "Modernity (one course in literature after 1800) brings them up to date.",
+          "explanation": null,
           "course_list": [
             "ENG 202",
             "ENG 339",
@@ -98,7 +97,7 @@
           "name": "Literature and Culture from 1900-Present",
           "max_counted": 1,
           "min_needed": 1,
-          "explanation": "Modernity (one course in literature after 1800) brings them up to date.",
+          "explanation": null,
           "course_list": [
             "ENG 203",
             "ENG 206",
@@ -179,7 +178,7 @@
           "name": "Difference and Diversity",
           "max_counted": 1,
           "min_needed": 1,
-          "explanation": "Diasporas (one course in Anglophone or U.S. minority literatures) explores the racial, cultural, and geographical diversities that inform literary tradition.",
+          "explanation": null,
           "course_list": [
             "ENG 229/AMS 229",
             "ENG 317",
@@ -228,7 +227,7 @@
           "name": "Theory and Criticism",
           "max_counted": 1,
           "min_needed": 1,
-          "explanation": "Theory and Criticism (one course) provides tools for thinking critically across all these periods, identities, and genres.",
+          "explanation": null,
           "course_list": [
             "ENG 203",
             "ENG 305",
@@ -272,7 +271,7 @@
           "name": "Tracks",
           "max_counted": 1,
           "min_needed": 1,
-          "explanation": "The English Department has many concentrators with a strong interest in Creative Writing and Theater, and offers special programs for students pursuing certificates in those closely related subjects.",
+          "explanation": null,
           "req_list": [
             {
               "name": "English",
@@ -286,14 +285,12 @@
             {
               "name": "Creative Writing",
               "max_counted": 1,
-              "min_needed": "ALL",
+              "min_needed": 3,
               "explanation": "Creative Writing: students accepted to the certificate program in Creative Writing may cognate two CWR courses as departmental courses in English, and may substitute a thesis in CWR for the thesis in English. Final admission depends on the permission of the Program in Creative Writing to write a creative thesis in the spring of junior year. Students not approved to write a creative thesis may cognate one course in CWR.",
-              "double_counting_allowed": true,
-              "completed_by_semester": 4,
               "req_list": [
                 {
                   "name": "English",
-                  "max_counted": 1,
+                  "max_counted": null,
                   "min_needed": 1,
                   "explanation": null,
                   "course_list": [
@@ -302,11 +299,10 @@
                 },
                 {
                   "name": "Cognates",
-                  "max_counted": 1,
-                  "min_needed": 2,
+                  "max_counted": 2,
+                  "min_needed": null,
                   "explanation": null,
                   "course_list": [
-                    "ENG *",
                     "CWR *"
                   ]
                 },
@@ -315,12 +311,12 @@
             {
               "name": "Theater",
               "max_counted": 1,
-              "min_needed": "ALL",
+              "min_needed": 3,
               "explanation": "Theater: students accepted to the certificate program in Theater may cognate two THR courses as departmental courses in English.",
               "req_list": [
                 {
                   "name": "English",
-                  "max_counted": 1,
+                  "max_counted": null,
                   "min_needed": 1,
                   "explanation": null,
                   "course_list": [
@@ -329,11 +325,10 @@
                 },
                 {
                   "name": "Cognates",
-                  "max_counted": 1,
-                  "min_needed": 2,
+                  "max_counted": 2,
+                  "min_needed": null,
                   "explanation": null,
                   "course_list": [
-                    "ENG *",
                     "THR *"
                   ]
                 }
