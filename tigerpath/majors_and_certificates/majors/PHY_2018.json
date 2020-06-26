@@ -25,14 +25,14 @@
       "name": "Prerequisites",
       "max_counted": 1,
       "min_needed": "ALL",
-      "explanation": "Prerequisites for concentration in physics are the following five courses: PHY 103-104, PHY 205, and MAT 203-204. These five courses should be completed by the end of sophomore year. PHY 103 may be replaced by ISC 231-232 (the first term of Integrated Science Sequence), or EGR 191-192 (Engineering-Math-Physics), or PHY 105. PHY 104 may be replaced by ISC 233-234 or PHY 106.PHY 205 may be replaced by PHY 207. MAT 203 may be replaced by MAT 201 or MAT 218. MAT 204 may be replaced by MAT 202 or MAT 217.Prerequisites for concentration in physics cannot be taken on a pass/D/fail basis.\n\nIt is possible to concentrate in physics starting with 100-level physics courses in sophomore year. Interested students should meet with the departmental representative as early as possible.",
+      "explanation": "Prerequisites for concentration in physics are the following five courses: PHY 103-104, PHY 205, and MAT 203-204. These five courses should be completed by the end of sophomore year. PHY 103 may be replaced by ISC 231-232 (the first term of Integrated Science Sequence), or EGR 191-192 (Engineering-Math-Physics), or PHY 105. PHY 104 may be replaced by ISC 233-234 or PHY 106. PHY 205 may be replaced by PHY 207. MAT 203 may be replaced by MAT 201 or MAT 218. MAT 204 may be replaced by MAT 202 or MAT 217. Prerequisites for concentration in physics cannot be taken on a pass/D/fail basis.\n\nIt is possible to concentrate in physics starting with 100-level physics courses in sophomore year. Interested students should meet with the departmental representative as early as possible.",
       "completed_by_semester": 4,
       "req_list": [
         {
           "name": "Physics",
           "max_counted": 1,
           "min_needed": "ALL",
-          "explanation": null,
+          "explanation": "Prerequisites for concentration in physics are the following five courses: PHY 103-104, PHY 205, and MAT 203-204. PHY 103 may be replaced by ISC 231-232 (the first term of Integrated Science Sequence), or EGR 191-192 (Engineering-Math-Physics), or PHY 105. PHY 104 may be replaced by ISC 233-234 or PHY 106. PHY 205 may be replaced by PHY 207.",
           "req_list": [
             {
               "name": null,
@@ -116,7 +116,7 @@
           "name": "Math",
           "max_counted": 1,
           "min_needed": "ALL",
-          "explanation": "Mastery of calculus to the level of MAT 103 or above, or advanced placement (an AP score of 5 on the AB test or an AP score of 4 on the BC test);",
+          "explanation": "Prerequisites for concentration in physics are the following five courses: PHY 103-104, PHY 205, and MAT 203-204. MAT 203 may be replaced by MAT 201 or MAT 218. MAT 204 may be replaced by MAT 202 or MAT 217.",
           "req_list": [
             {
               "name": null,
