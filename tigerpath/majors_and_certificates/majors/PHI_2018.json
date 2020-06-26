@@ -26,7 +26,7 @@
       "max_counted": 1,
       "min_needed": 1,
       "explanation": "Any course in the philosophy department may serve as prerequisite for concentration. A student who has not satisfied this prerequisite and who, at the end of sophomore year, desires to enter the department must apply to the departmental representative.",
-      "double_couning_allowed:" true,
+      "double_counting_allowed": true,
       "course_list": [
         "PHI *"
       ]
@@ -151,15 +151,13 @@
           "explanation": "Senior concentrators doing their theses in political philosophy have the option of substituting for the usual distribution requirement (two courses in each of three areas plus two unrestricted courses) the following: two courses from among those listed under the Department of Politics as courses in political theory; two philosophy courses in the ethics and philosophy of value area; two philosophy courses in one other philosophy distribution area; and two philosophy courses unrestricted as to distribution area.",
           "req_list": [
             {
-              {
-                "name": "Political Theory",
-                "max_counted": 1,
-                "min_needed": 2,
-                "explanation": "<i>Editor's Note: Most of these courses fall under this requirement but as TigerPath does not verify this.</i>\n\nTwo courses from among those listed under the Department of Politics as courses in political theory.",
-                "course_list": [
-                  "POL *"
-                ]
-              }
+              "name": "Political Theory",
+              "max_counted": 1,
+              "min_needed": 2,
+              "explanation": "<i>Editor's Note: Most of these courses fall under this requirement but as TigerPath does not verify this.</i>\n\nTwo courses from among those listed under the Department of Politics as courses in political theory.",
+              "course_list": [
+                "POL *"
+              ]
             },
             {
               "name": "Ethics and Philosophy of Value",
@@ -267,32 +265,30 @@
           "explanation": "Senior concentrators doing their theses in philosophy of science have the option of substituting for the usual distribution requirements (two courses in each of three areas plus two unrestricted courses) the following: two upper-division (300 level or higher) courses in one relevant science (such as mathematics, computer science, physics, biology, psychology, economics); two philosophy courses in the logic and philosophy of science area; two philosophy courses in one other philosophy distribution area; and two philosophy courses unrestricted as to distribution area.",
           "req_list": [
             {
-              {
-                "name": "Science",
-                "max_counted": 1,
-                "min_needed": 2,
-                "explanation": "Two upper-division (300 level or higher) courses in one relevant science (such as mathematics, computer science, physics, biology, psychology, economics).",
-                "course_list": [
-                  "COS 3*",
-                  "COS 4*",
-                  "COS 5*",
-                  "ECO 3*",
-                  "ECO 4*",
-                  "ECO 5*",
-                  "MAT 3*",
-                  "MAT 4*",
-                  "MAT 5*",
-                  "MOL 3*",
-                  "MOL 4*",
-                  "MOL 5*",
-                  "PHY 3*",
-                  "PHY 4*",
-                  "PHY 5*",
-                  "PSY 3*",
-                  "PSY 4*",
-                  "PSY 5*",
-                ]
-              }
+              "name": "Science",
+              "max_counted": 1,
+              "min_needed": 2,
+              "explanation": "Two upper-division (300 level or higher) courses in one relevant science (such as mathematics, computer science, physics, biology, psychology, economics).",
+              "course_list": [
+                "COS 3*",
+                "COS 4*",
+                "COS 5*",
+                "ECO 3*",
+                "ECO 4*",
+                "ECO 5*",
+                "MAT 3*",
+                "MAT 4*",
+                "MAT 5*",
+                "MOL 3*",
+                "MOL 4*",
+                "MOL 5*",
+                "PHY 3*",
+                "PHY 4*",
+                "PHY 5*",
+                "PSY 3*",
+                "PSY 4*",
+                "PSY 5*"
+              ]
             },
             {
               "name": "Logic and Philosophy of Science",
@@ -400,15 +396,13 @@
           "explanation": "Philosophy concentrators participating in the certificate program in linguistics may follow the philosophy of science option just described, taking linguistics as their science. All courses listed under the Program in Linguistics as core, other, or related courses may be considered courses in the science of linguistics for this purpose.",
           "req_list": [
             {
-              {
-                "name": "Linguistics",
-                "max_counted": 1,
-                "min_needed": 2,
-                "explanation": "All courses listed under the Program in Linguistics as core, other, or related courses may be considered courses in the science of linguistics for this purpose.",
-                "course_list": [
-                  "LIN *"
-                ]
-              }
+              "name": "Linguistics",
+              "max_counted": 1,
+              "min_needed": 2,
+              "explanation": "All courses listed under the Program in Linguistics as core, other, or related courses may be considered courses in the science of linguistics for this purpose.",
+              "course_list": [
+                "LIN *"
+              ]
             },
             {
               "name": "Logic and Philosophy of Science",
