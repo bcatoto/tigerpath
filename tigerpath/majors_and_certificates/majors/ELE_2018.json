@@ -25,7 +25,7 @@
       "name": "Foundation",
       "max_counted": 1,
       "min_needed": 3,
-      "explanation": "ELE 201 Information and Signals and ELE 203 Electronic Circuit Design, Analysis and Implementation. Beginning with the class of 2022, one of ELE 206 Contemporary Logic Design or ELE 308 Electronic and Photonic Devices. (The classes of 2021 and 2020 must take both 206 and 308.)",
+      "explanation": "ELE 201 Information and Signals and ELE 203 Electronic Circuit Design, Analysis and Implementation.\nNote: Beginning with the class of 2022, one of ELE 206 Contemporary Logic Design or ELE 308 Electronic and Photonic Devices. (The classes of 2021 and 2020 must take both 206 and 308.)",
       "completed_by_semester": 4,
       "req_list": [
         {
@@ -54,7 +54,7 @@
       "name": "System-Building",
       "max_counted": 1,
       "min_needed": "ALL",
-      "explanation": "Working in teams, all students must design and build their own \"cyberphyical system,\" combining hardware and software concepts\n- ELE 302 Robotic and Autonomous Systems Lab (\"Car Lab\")",
+      "explanation": "Working in teams, all students must design and build their own \"cyberphyical system,\" combining hardware and software concepts: ELE 302 Robotic and Autonomous Systems Lab (\"Car Lab\").",
       "completed_by_semester": 6,
       "course_list": [
         "ELE 302"
@@ -70,349 +70,6 @@
         "MAT 4**",
         "MAT 5**",
         "COS 340"
-      ]
-    },
-    {
-      "name": "Breadth",
-      "max_counted": 1,
-      "min_needed": 1,
-      "explanation": "At least one department elective course, 300-level or above, in an area distinct from your area of concentration. The following courses are also possible: COS 318, 320, 333, 402, 426, 429, 432, 441, 461; PHY 208/305 – must take both PHY208 and PHY 305 (counts as one). Note: ORF309 cannot be used to satisfy this requirement. Of special note: TigerHub states you need one course each in two areas. One of your concentration courses will serve as one of the two needed. This means you need one course outside of concentration and the other course will naturally fall into your concentration. The departmental representative is the final authority on whether or not a course can fulfill a requirement.",
-      "req_list": [
-        {
-          "name": "Another department",
-          "max_counted": 1,
-          "min_needed": 1,
-          "explanation": null,
-          "course_list": [
-            "ELE 206/COS 306",
-            "COS 318",
-            "COS 320",
-            "COS 333",
-            "COS 402",
-            "COS 426",
-            "COS 429",
-            "COS 432",
-            "COS 441",
-            "COS 461"
-          ]
-        },
-        {
-          "name": "Circuits and Systems",
-          "max_counted": 1,
-          "min_needed": 1,
-          "explanation": null,
-          "course_list": [
-            "ELE 304"
-            "ELE 341",
-            "COS 375/ELE 375",
-            "ELE 382",
-            "ELE 462",
-            "ELE 464",
-            "ELE 472",
-            "ELE 475",
-            "ELE 481",
-            "ELE 482"
-          ]
-        },
-        {
-          "name": "Data and Information",
-          "max_counted": 1,
-          "min_needed": 1,
-          "explanation": null,
-          "course_list": [
-            "ORF 309",
-            "ELE 381",
-            "ELE 382",
-            "ELE 482",
-            "ELE 486",
-            "ELE 488",
-            "COS 429",
-            "COS 432/ELE 432",
-            "ORF 350",
-            "ORF 363/COS 323",
-            "ELE 364",
-            "ELE 435",
-            "COS 302",
-            "COS 324",
-            "COS 402",
-            "COS 424"
-          ]
-        },
-        {
-          "name": "Computer Systems",
-          "max_counted": 1,
-          "min_needed": 1,
-          "explanation": null,
-          "course_list": [
-            "ELE 375"
-            "ELE 462",
-            "ELE 464",
-            "ELE 470",
-            "ELE 472",
-            "ELE 475",
-            "COS 318",
-            "COS 320",
-            "COS 461"
-          ]
-        },
-        {
-          "name": "Robotics and Cyberphysical Systems",
-          "max_counted": 1,
-          "min_needed": 1,
-          "explanation": null,
-          "course_list": [
-            "ELE 304",
-            "ELE 375",
-            "ELE 464",
-            "ELE 481",
-            "COS 429",
-            "MAE 345",
-            "MAE 433",
-            "ELE 364",
-            "ELE 435",
-            "COS 324",
-            "COS 402"
-          ]
-        },
-        {
-          "name": "Quantum Information and Applied Physics",
-          "max_counted": 1,
-          "min_needed": 1,
-          "explanation": null,
-          "req_list": [
-            {
-              "name": null,
-              "max_counted": 1,
-              "min_needed": 1,
-              "explanation": null,
-              "course_list": [
-                "ELE 342"
-                "ELE 396",
-                "ELE 441",
-                "ELE 453",
-                "ELE 456",
-                "ELE 568"
-              ]
-            },
-            {
-              "name": null,
-              "max_counted": 1,
-              "min_needed": "ALL",
-              "explanation": "PHY 208/305 – must take both PHY208 and PHY 305 (counts as one).",
-              "course_list": [
-                "PHY 208",
-                "PHY 305"
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Security and Privacy",
-          "max_counted": 1,
-          "min_needed": 1,
-          "explanation": null,
-          "course_list": [
-            "COS 432/ELE 432",
-            "COS 375",
-            "ELE 464",
-            "ELE 470",
-            "ELE 472",
-            "COS 433",
-            "COS 461",
-            "ELE 364",
-            "ELE 435",
-            "COS 324",
-            "COS 402",
-            "COS 424"
-          ]
-        },
-        {
-          "name": "Electronic Devices and Materials",
-          "max_counted": 1,
-          "min_needed": 1,
-          "explanation": null,
-          "course_list": [
-            "ELE 308",
-            "ELE 341",
-            "ELE 342",
-            "ELE 431",
-            "ELE 441",
-            "ELE 557",
-            "MAE 324",
-            "MAE 424",
-            "MSE 301",
-            "MSE 302",
-            "MSE 505",
-            "ELE 304",
-            "ELE 481"
-          ]
-        },
-        {
-          "name": "Biomedical Engineering",
-          "max_counted": 1,
-          "min_needed": 1,
-          "explanation": null,
-          "course_list": [
-            "ELE 304",
-            "ELE 452",
-            "ELE 480",
-            "COS 429",
-            "COS 455",
-            "MAE 344",
-            "NEU 427",
-            "NEU 437"
-          ]
-        },
-        {
-          "name": "Optics and Photonics",
-          "max_counted": 1,
-          "min_needed": 1,
-          "explanation": null,
-          "course_list": [
-            "ELE 351",
-            "ELE 342",
-            "ELE 452",
-            "ELE 453",
-            "ELE 456",
-            "ELE 458",
-            "MAE 521"
-          ]
-        },
-        {
-          "name": "Energy and the Environment",
-          "max_counted": 1,
-          "min_needed": 1,
-          "explanation": null,
-          "course_list": [
-            "ELE 341",
-            "ELE 431",
-            "ELE 481",
-            "ELE 557",
-            "MAE 424"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Balance and Completeness",
-      "max_counted": 1,
-      "min_needed": "ALL",
-      "explanation": "ELE students must take at least two upperclass technical courses in each of the last four semesters. These 300-level-or-higher courses are called Departmental courses. Of the eight Departmental courses, at least five must be ELE courses. The remaining three courses can be taken in CEE, CHM, CBE, COS, EEB, ELE, MAE, MAT, MOL, MSE, ORF or PHY. Courses outside electrical engineering counted towards this requirement must be closely related to the student’s academic program.",
-      "req_list": [
-        {
-          "name": "Electrical Engineering",
-          "max_counted": 1,
-          "min_needed": 5,
-          "explanation": "Of the eight Departmental courses, at least five must be ELE courses.",
-          "double_counting_allowed": true,
-          "course_list": [
-            "ELE 3*",
-            "ELE 4*",
-            "ELE 5*"
-          ]
-        },
-        {
-          "name": "Other Department",
-          "max_counted": 1,
-          "min_needed": 3,
-          "explanation": "The remaining three courses can be taken in CEE, CHM, CBE, COS, EEB, ELE, MAE, MAT, MOL, MSE, ORF or PHY. Courses outside electrical engineering counted towards this requirement must be closely related to the student’s academic program.",
-          "double_counting_allowed": true,
-          "course_list": [
-            "CEE 3*",
-            "CEE 4*",
-            "CEE 5*",
-            "CHM 3*",
-            "CHM 4*",
-            "CHM 5*",
-            "CBE 3*",
-            "CBE 4*",
-            "CBE 5*",
-            "EEB 3*",
-            "EEB 4*",
-            "EEB 5*",
-            "ELE 3*",
-            "ELE 4*",
-            "ELE 5*",
-            "MAE 3*",
-            "MAE 4*",
-            "MAE 5*",
-            "MAT 3*",
-            "MAT 4*",
-            "MAT 5*",
-            "MOL 3*",
-            "MOL 4*",
-            "MOL 5*",
-            "MSE 3*",
-            "MSE 4*",
-            "MSE 5*",
-            "ORF 3*",
-            "ORF 4*",
-            "ORF 5*",
-            "PHY 3*",
-            "PHY 4*",
-            "PHY 5*"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Engineering Science",
-      "max_counted": 1,
-      "min_needed": 1,
-      "explanation": "An engineering course with a significant scientific component must be taken outside of ELE to satisfy this requirement. Many courses can be used to satisfy this requirement; note, however, that a course comprised largely of mathematics or applied mathematics does not satisfy the requirement. The course used to satisfy the Engineering Science requirement cannot also be used to satisfy the concentration requirement or the breadth requirement, nor can it be counted as a Departmental requirement. The following is a non-exhaustive list of possibilities: COS 217, 226, 320, 402, 423, 425, 444, 451, 487; MAE 206, 221, 222, 324, 328, 344, 345, 433, 434; CEE 205, 303, 305, 471; MSE 301, 302; CBE 245, 246, 341, 415, 445, 447; ORF 307, 311, 405, 406, 417",
-      "course_list": [
-        "COS 217",
-        "COS 226",
-        "COS 320",
-        "COS 402",
-        "COS 423",
-        "COS 425",
-        "COS 444",
-        "COS 451",
-        "COS 487",
-        "MAE 206",
-        "MAE 221",
-        "MAE 222",
-        "MAE 324",
-        "MAE 328",
-        "MAE 344",
-        "MAE 345",
-        "MAE 433",
-        "MAE 434",
-        "CEE 205",
-        "CEE 303",
-        "CEE 305",
-        "CEE 471",
-        "CBE 245",
-        "CBE 246",
-        "CBE 341",
-        "CBE 415",
-        "CBE 445",
-        "CBE 447",
-        "ORF 307",
-        "ORF 311",
-        "ORF 405",
-        "ORF 406",
-        "ORF 417"
-      ]
-    },
-    {
-      "name": "Design",
-      "max_counted": 1,
-      "min_needed": 1,
-      "explanation": "In the junior year, ELE 302 takes each student through all phases of a design project, emphasizing hands-on experience while providing classroom guidance. In addition, at least one upperclass ELE course with substantial engineering design content must be selected from the following: ELE 352, 375, 404, 454, 462, 465, 475, 482, COS 426, 436. This requirement may also be satisfied with junior or senior independent work, if that work contains a substantial design component.",
-      "completed_by_semester": 6,
-      "course_list": [
-        "ELE 352",
-        "ELE 375",
-        "ELE 404",
-        "ELE 454",
-        "ELE 462",
-        "ELE 465",
-        "ELE 475",
-        "ELE 482",
-        "COS 426",
-        "COS 436"
       ]
     },
     {
@@ -777,6 +434,349 @@
             "ELE 481",
             "ELE 557",
             "MAE 424"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Breadth",
+      "max_counted": 1,
+      "min_needed": 1,
+      "explanation": "At least one department elective course, 300-level or above, in an area distinct from your area of concentration. The following courses are also possible: COS 318, 320, 333, 402, 426, 429, 432, 441, 461; PHY 208/305 – must take both PHY208 and PHY 305 (counts as one). Note: ORF309 cannot be used to satisfy this requirement. Of special note: TigerHub states you need one course each in two areas. One of your concentration courses will serve as one of the two needed. This means you need one course outside of concentration and the other course will naturally fall into your concentration. The departmental representative is the final authority on whether or not a course can fulfill a requirement.",
+      "req_list": [
+        {
+          "name": "Another department",
+          "max_counted": 1,
+          "min_needed": 1,
+          "explanation": null,
+          "course_list": [
+            "ELE 206/COS 306",
+            "COS 318",
+            "COS 320",
+            "COS 333",
+            "COS 402",
+            "COS 426",
+            "COS 429",
+            "COS 432",
+            "COS 441",
+            "COS 461"
+          ]
+        },
+        {
+          "name": "Circuits and Systems",
+          "max_counted": 1,
+          "min_needed": 1,
+          "explanation": null,
+          "course_list": [
+            "ELE 304",
+            "ELE 341",
+            "COS 375/ELE 375",
+            "ELE 382",
+            "ELE 462",
+            "ELE 464",
+            "ELE 472",
+            "ELE 475",
+            "ELE 481",
+            "ELE 482"
+          ]
+        },
+        {
+          "name": "Data and Information",
+          "max_counted": 1,
+          "min_needed": 1,
+          "explanation": null,
+          "course_list": [
+            "ORF 309",
+            "ELE 381",
+            "ELE 382",
+            "ELE 482",
+            "ELE 486",
+            "ELE 488",
+            "COS 429",
+            "COS 432/ELE 432",
+            "ORF 350",
+            "ORF 363/COS 323",
+            "ELE 364",
+            "ELE 435",
+            "COS 302",
+            "COS 324",
+            "COS 402",
+            "COS 424"
+          ]
+        },
+        {
+          "name": "Computer Systems",
+          "max_counted": 1,
+          "min_needed": 1,
+          "explanation": null,
+          "course_list": [
+            "ELE 375",
+            "ELE 462",
+            "ELE 464",
+            "ELE 470",
+            "ELE 472",
+            "ELE 475",
+            "COS 318",
+            "COS 320",
+            "COS 461"
+          ]
+        },
+        {
+          "name": "Robotics and Cyberphysical Systems",
+          "max_counted": 1,
+          "min_needed": 1,
+          "explanation": null,
+          "course_list": [
+            "ELE 304",
+            "ELE 375",
+            "ELE 464",
+            "ELE 481",
+            "COS 429",
+            "MAE 345",
+            "MAE 433",
+            "ELE 364",
+            "ELE 435",
+            "COS 324",
+            "COS 402"
+          ]
+        },
+        {
+          "name": "Quantum Information and Applied Physics",
+          "max_counted": 1,
+          "min_needed": 1,
+          "explanation": null,
+          "req_list": [
+            {
+              "name": null,
+              "max_counted": 1,
+              "min_needed": 1,
+              "explanation": null,
+              "course_list": [
+                "ELE 342",
+                "ELE 396",
+                "ELE 441",
+                "ELE 453",
+                "ELE 456",
+                "ELE 568"
+              ]
+            },
+            {
+              "name": null,
+              "max_counted": 1,
+              "min_needed": "ALL",
+              "explanation": "PHY 208/305 – must take both PHY208 and PHY 305 (counts as one).",
+              "course_list": [
+                "PHY 208",
+                "PHY 305"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Security and Privacy",
+          "max_counted": 1,
+          "min_needed": 1,
+          "explanation": null,
+          "course_list": [
+            "COS 432/ELE 432",
+            "COS 375",
+            "ELE 464",
+            "ELE 470",
+            "ELE 472",
+            "COS 433",
+            "COS 461",
+            "ELE 364",
+            "ELE 435",
+            "COS 324",
+            "COS 402",
+            "COS 424"
+          ]
+        },
+        {
+          "name": "Electronic Devices and Materials",
+          "max_counted": 1,
+          "min_needed": 1,
+          "explanation": null,
+          "course_list": [
+            "ELE 308",
+            "ELE 341",
+            "ELE 342",
+            "ELE 431",
+            "ELE 441",
+            "ELE 557",
+            "MAE 324",
+            "MAE 424",
+            "MSE 301",
+            "MSE 302",
+            "MSE 505",
+            "ELE 304",
+            "ELE 481"
+          ]
+        },
+        {
+          "name": "Biomedical Engineering",
+          "max_counted": 1,
+          "min_needed": 1,
+          "explanation": null,
+          "course_list": [
+            "ELE 304",
+            "ELE 452",
+            "ELE 480",
+            "COS 429",
+            "COS 455",
+            "MAE 344",
+            "NEU 427",
+            "NEU 437"
+          ]
+        },
+        {
+          "name": "Optics and Photonics",
+          "max_counted": 1,
+          "min_needed": 1,
+          "explanation": null,
+          "course_list": [
+            "ELE 351",
+            "ELE 342",
+            "ELE 452",
+            "ELE 453",
+            "ELE 456",
+            "ELE 458",
+            "MAE 521"
+          ]
+        },
+        {
+          "name": "Energy and the Environment",
+          "max_counted": 1,
+          "min_needed": 1,
+          "explanation": null,
+          "course_list": [
+            "ELE 341",
+            "ELE 431",
+            "ELE 481",
+            "ELE 557",
+            "MAE 424"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Engineering Science",
+      "max_counted": 1,
+      "min_needed": 1,
+      "explanation": "An engineering course with a significant scientific component must be taken outside of ELE to satisfy this requirement. Many courses can be used to satisfy this requirement; note, however, that a course comprised largely of mathematics or applied mathematics does not satisfy the requirement. The course used to satisfy the Engineering Science requirement cannot also be used to satisfy the concentration requirement or the breadth requirement, nor can it be counted as a Departmental requirement. The following is a non-exhaustive list of possibilities: COS 217, 226, 320, 402, 423, 425, 444, 451, 487; MAE 206, 221, 222, 324, 328, 344, 345, 433, 434; CEE 205, 303, 305, 471; MSE 301, 302; CBE 245, 246, 341, 415, 445, 447; ORF 307, 311, 405, 406, 417",
+      "course_list": [
+        "COS 217",
+        "COS 226",
+        "COS 320",
+        "COS 402",
+        "COS 423",
+        "COS 425",
+        "COS 444",
+        "COS 451",
+        "COS 487",
+        "MAE 206",
+        "MAE 221",
+        "MAE 222",
+        "MAE 324",
+        "MAE 328",
+        "MAE 344",
+        "MAE 345",
+        "MAE 433",
+        "MAE 434",
+        "CEE 205",
+        "CEE 303",
+        "CEE 305",
+        "CEE 471",
+        "CBE 245",
+        "CBE 246",
+        "CBE 341",
+        "CBE 415",
+        "CBE 445",
+        "CBE 447",
+        "ORF 307",
+        "ORF 311",
+        "ORF 405",
+        "ORF 406",
+        "ORF 417"
+      ]
+    },
+    {
+      "name": "Design",
+      "max_counted": 1,
+      "min_needed": 1,
+      "explanation": "In the junior year, ELE 302 takes each student through all phases of a design project, emphasizing hands-on experience while providing classroom guidance. In addition, at least one upperclass ELE course with substantial engineering design content must be selected from the following: ELE 352, 375, 404, 454, 462, 465, 475, 482, COS 426, 436. This requirement may also be satisfied with junior or senior independent work, if that work contains a substantial design component.",
+      "completed_by_semester": 6,
+      "course_list": [
+        "ELE 352",
+        "ELE 375",
+        "ELE 404",
+        "ELE 454",
+        "ELE 462",
+        "ELE 465",
+        "ELE 475",
+        "ELE 482",
+        "COS 426",
+        "COS 436"
+      ]
+    },
+    {
+      "name": "Balance and Completeness",
+      "max_counted": 1,
+      "min_needed": 8,
+      "explanation": "ELE students must take at least two upperclass technical courses in each of the last four semesters. These 300-level-or-higher courses are called Departmental courses. Of the eight Departmental courses, at least five must be ELE courses. The remaining three courses can be taken in CEE, CHM, CBE, COS, EEB, ELE, MAE, MAT, MOL, MSE, ORF or PHY. Courses outside electrical engineering counted towards this requirement must be closely related to the student’s academic program.",
+      "req_list": [
+        {
+          "name": "Electrical Engineering",
+          "max_counted": null,
+          "min_needed": 5,
+          "explanation": "Of the eight Departmental courses, at least five must be ELE courses.",
+          "double_counting_allowed": true,
+          "course_list": [
+            "ELE 3*",
+            "ELE 4*",
+            "ELE 5*"
+          ]
+        },
+        {
+          "name": "Other Department",
+          "max_counted": 3,
+          "min_needed": null,
+          "explanation": "The remaining three courses can be taken in CEE, CHM, CBE, COS, EEB, ELE, MAE, MAT, MOL, MSE, ORF or PHY. Courses outside electrical engineering counted towards this requirement must be closely related to the student’s academic program.",
+          "double_counting_allowed": true,
+          "course_list": [
+            "CEE 3*",
+            "CEE 4*",
+            "CEE 5*",
+            "CHM 3*",
+            "CHM 4*",
+            "CHM 5*",
+            "CBE 3*",
+            "CBE 4*",
+            "CBE 5*",
+            "COS 3*",
+            "COS 4*",
+            "COS 5*",
+            "EEB 3*",
+            "EEB 4*",
+            "EEB 5*",
+            "MAE 3*",
+            "MAE 4*",
+            "MAE 5*",
+            "MAT 3*",
+            "MAT 4*",
+            "MAT 5*",
+            "MOL 3*",
+            "MOL 4*",
+            "MOL 5*",
+            "MSE 3*",
+            "MSE 4*",
+            "MSE 5*",
+            "ORF 3*",
+            "ORF 4*",
+            "ORF 5*",
+            "PHY 3*",
+            "PHY 4*",
+            "PHY 5*"
           ]
         }
       ]
