@@ -104,15 +104,15 @@
       ]
     },
     {
-      "name": "Electives",
+      "name": "Elective Subject Areas",
       "max_counted": 1,
-      "min_needed": 5,
+      "min_needed": 3,
       "explanation": "Students must take 5 NEU courses from 3 out of 4 subject areas.",
       "req_list": [
         {
           "name": "Molecular, Cellular, Disease",
-          "max_counted": 3,
-          "min_needed": null,
+          "max_counted": 1,
+          "min_needed": 1,
           "explanation": null,
           "course_list": [
             "NEU 301: Cellular Neurobiology",
@@ -134,8 +134,8 @@
         },
         {
           "name": "Neural Computation",
-          "max_counted": 3,
-          "min_needed": null,
+          "max_counted": 1,
+          "min_needed": 1,
           "explanation": null,
           "course_list": [
             "COS 226",
@@ -159,8 +159,8 @@
         },
         {
           "name": "Systems and Circuits",
-          "max_counted": 3,
-          "min_needed": null,
+          "max_counted": 1,
+          "min_needed": 1,
           "explanation": null,
           "course_list": [
             "NEU 200: Functional Neuroanatomy",
@@ -183,8 +183,8 @@
         },
         {
           "name": "Social and Cognitive Neuroscience",
-          "max_counted": 3,
-          "min_needed": null,
+          "max_counted": 1,
+          "min_needed": 1,
           "explanation": null,
           "course_list": [
             "NEU 200: Functional Neuroanatomy",
@@ -209,6 +209,63 @@
       ]
     },
     {
+      "name": "5 Electives",
+      "max_counted": 1,
+      "min_needed": 5,
+      "explanation": "Students must take 5 NEU courses from 3 out of 4 subject areas.",
+      "double_counting_allowed": true,
+      "course_list": [
+        "NEU 200: Functional Neuroanatomy",
+        "NEU 301: Cellular Neurobiology",
+        "NEU 385",
+        "NEU 413/PSY 413: The Neurobiology of Stress",
+        "NEU 422/PSY 422: Neural Dynamics of Cognition",
+        "NEU 427: Systems Neuroscience",
+        "NEU 428/PSY 428",
+        "NEU 430",
+        "NEU 437: Computational Neuroscience",
+        "NEU 457: Measurement and Analysis of Neural Circuit Dynamics",
+        "NEU 475: Basal Ganglia in Health and Disease",
+        "NEU 501A: Molecules to Systems",
+        "NEU 502A: From Molecules to Systems to Behavior",
+        "COS 226",
+        "COS 343",
+        "COS 402: Artificial Intelligence",
+        "COS 429",
+        "COS 324: Fundamentals of Machine Learning",
+        "COS 302/SML 305",
+        "COS 485: Neural Networks: Theory and Applications",
+        "EEB 403/NEU 403: Genes and Neurons Underlying Behavioral Evolution",
+        "ELE 364: Machine Learning for Predictive Data Analytics",
+        "ELE 452",
+        "MAT 323/APC 323: Topics in Mathematical Modeling - Mathematical Neuroscience",
+        "MOL 250",
+        "MOL 433",
+        "MOL 447/NEU 447: Neuroimmunology",
+        "MOL 459: Basic Virology",
+        "PHY 562",
+        "PSY 248/MUS 248",
+        "PSY 260/NEU 260: Life Cycle of Behaviors",
+        "PSY 306/NEU 306: Memory and Cognition",
+        "PSY 316/NEU 316: Cognitive Neuroscience of Selective Attention",
+        "PSY 318",
+        "PSY 330/NEU 330: Connectionist Modeling",
+        "PSY 331/NEU 331: Introduction to Clinical Neuropsychology",
+        "PSY 336/NEU 336: Diversity of Brains",
+        "PSY 337/NEU 337: Neuroscience of Social Cognition and Emotion",
+        "PSY 338/NEU 338: Animal Learning & Decision-making",
+        "PSY 340/NEU 340: Neuroeconomics",
+        "PSY 345/NEU 325: Sensation & Perception",
+        "PSY 360",
+        "PSY 405/NEU 405: Developmental Cognitive Neuroscience",
+        "PSY 409: Cyborg Psychology",
+        "PSY 411: Psychology of Face Perception",
+        "PSY 480/NEU 480: fMRI Decoding",
+        "PSY 516/NEU 516: Brain Imaging in Cognitive Neuroscience Research",
+        "QCB 515"
+      ]
+    },
+    {
       "name": "Additional Courses",
       "max_counted": 1,
       "min_needed": "ALL",
@@ -218,7 +275,7 @@
           "name": "Cell Biology",
           "max_counted": 1,
           "min_needed": 1,
-          "explanation": null,
+          "explanation": "Students must take one 200-level or higher course in cell biology from the following list.",
           "req_list": [
             {
               "name": null,
@@ -252,7 +309,7 @@
           "name": "Behavior",
           "max_counted": 1,
           "min_needed": 1,
-          "explanation": null,
+          "explanation": "Students must take one 200-level or higher course in behavior from the following list.",
           "course_list": [
             "PSY 207: Psychopathology",
             "PSY 255: Cognitive Psychology",
@@ -269,7 +326,7 @@
           "name": "Quantitative Thinking",
           "max_counted": 1,
           "min_needed": 1,
-          "explanation": null,
+          "explanation": "Students must take one course in quantitative thinking from the following list.",
           "req_list": [
             {
               "name": null,
