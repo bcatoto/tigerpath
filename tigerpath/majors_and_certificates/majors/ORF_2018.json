@@ -4,7 +4,7 @@
   "code": "ORF",
   "degree": "BSE",
   "year": 2018,
-  "explanation": "Operations research and financial engineering (link is external)may be considered as the modern form of a liberal education: modern because it is based on science, mathematics, computing and technology, and liberal in the sense that it provides for broad intellectual development and can lead to many different types of careers. By choosing judiciously from courses in engineering, science, mathematics, economics, public policy, and liberal arts, each student may design a program adapted to his or her particular interests.\n\nAll students start from a common academic core consisting of statistics, probability and stochastic processes, and optimization. Related courses focus on developing computer skills and exposing students to applications in areas such as finance, operations, transportation, and logistics. Students augment the core program with a coherent sequence of departmental electives. Students may also design specialized programs in areas such as medicine and neuroscience, which must be reviewed and approved by their academic adviser and the departmental representative. Students often draw on courses from economics, computer science, applied mathematics, civil and environmental engineering, mechanical engineering, chemistry, molecular biology, psychology, and the Woodrow Wilson School of Public and International Affairs. Requirements for study in the department follow the general requirements for the School of Engineering and Applied Science and the University.",
+  "explanation": "Operations research and financial engineering may be considered as the modern form of a liberal education: modern because it is based on science, mathematics, computing and technology, and liberal in the sense that it provides for broad intellectual development and can lead to many different types of careers. By choosing judiciously from courses in engineering, science, mathematics, economics, public policy, and liberal arts, each student may design a program adapted to his or her particular interests.\n\nAll students start from a common academic core consisting of statistics, probability and stochastic processes, and optimization. Related courses focus on developing computer skills and exposing students to applications in areas such as finance, operations, transportation, and logistics. Students augment the core program with a coherent sequence of departmental electives. Students may also design specialized programs in areas such as medicine and neuroscience, which must be reviewed and approved by their academic adviser and the departmental representative. Students often draw on courses from economics, computer science, applied mathematics, civil and environmental engineering, mechanical engineering, chemistry, molecular biology, psychology, and the Woodrow Wilson School of Public and International Affairs. Requirements for study in the department follow the general requirements for the School of Engineering and Applied Science and the University.",
   "urls": [
     "https://ua.princeton.edu/academic-units/department-operations-research-and-financial-engineering",
     "https://orfe.princeton.edu/documents/undergraduate-academic-guides"
@@ -44,7 +44,7 @@
           "name": "ORF",
           "max_counted": null,
           "min_needed": 4,
-          "explanation": "There must be at least four courses from ORFE",
+          "explanation": "There must be at least four courses from ORFE.",
           "course_list": [
             "ORF 311: Stochastic Optimization and Machine Learning in Finance",
             "ORF 350: Analysis of Big Data",
@@ -71,7 +71,7 @@
           "name": "CEE",
           "max_counted": 3,
           "min_needed": null,
-          "explanation": null,
+          "explanation": "There can be no more than three courses from any one department (excluding ORFE).",
           "course_list": [
             "CEE 304: Environmental Engineering and Energy",
             "CEE 460: Risk Analysis"
@@ -81,7 +81,7 @@
           "name": "CHM",
           "max_counted": 3,
           "min_needed": null,
-          "explanation": null,
+          "explanation": "There can be no more than three courses from any one department (excluding ORFE).",
           "course_list": [
             "CHM 301: Organic Chemistry I",
             "CHM 302: Organic Chemistry II"
@@ -91,7 +91,7 @@
           "name": "COS",
           "max_counted": 3,
           "min_needed": null,
-          "explanation": null,
+          "explanation": "There can be no more than three courses from any one department (excluding ORFE).",
           "course_list": [
             "COS 217: Introduction to Programming Systems",
             "COS 226: Algorithms and Data Structures",
@@ -107,7 +107,7 @@
           "name": "ECO",
           "max_counted": 3,
           "min_needed": null,
-          "explanation": null,
+          "explanation": "There can be no more than three courses from any one department (excluding ORFE).",
           "course_list": [
             "ECO 310: Microeconomic Theory: A Mathematical Approach\n",
             "ECO 311: Macroeconomics: A Mathematical Approach",
@@ -130,7 +130,7 @@
           "name": "EEB",
           "max_counted": 3,
           "min_needed": null,
-          "explanation": null,
+          "explanation": "There can be no more than three courses from any one department (excluding ORFE).",
           "course_list": [
             "EEB 324: Theoretical Ecology"
           ]
@@ -139,7 +139,7 @@
           "name": "ELE",
           "max_counted": 3,
           "min_needed": null,
-          "explanation": null,
+          "explanation": "There can be no more than three courses from any one department (excluding ORFE).",
           "course_list": [
             "ELE 301: Designing Real Systems",
             "ELE 381: Networks: Friends, Money and Bytes",
@@ -151,7 +151,7 @@
           "name": "ENV",
           "max_counted": 3,
           "min_needed": null,
-          "explanation": null,
+          "explanation": "There can be no more than three courses from any one department (excluding ORFE).",
           "course_list": [
             "ENV 302: Practical Models for Environmental Systems"
           ]
@@ -160,7 +160,7 @@
           "name": "MAE",
           "max_counted": 3,
           "min_needed": null,
-          "explanation": null,
+          "explanation": "There can be no more than three courses from any one department (excluding ORFE).",
           "course_list": [
             "MAE 206: Introduction to Engineering Dynamics",
             "MAE 345: Introduction to Robotics",
@@ -172,7 +172,7 @@
           "name": "MAT",
           "max_counted": 3,
           "min_needed": null,
-          "explanation": "Note: MAT 391/MAE 305 and MAT 427 cannot both be taken because the content is too similar",
+          "explanation": "There can be no more than three courses from any one department (excluding ORFE). Note: MAT 391/MAE 305 and MAT 427 cannot both be taken because the content is too similar",
           "req_list": [
             {
               "name": null,
@@ -208,7 +208,7 @@
           "name": "MOL",
           "max_counted": 3,
           "min_needed": null,
-          "explanation": null,
+          "explanation": "There can be no more than three courses from any one department (excluding ORFE).",
           "course_list": [
             "MOL 345: Biochemistry",
             "MOL 457: Computational Aspects of Molecular Biology"
@@ -218,7 +218,7 @@
           "name": "NEU",
           "max_counted": 3,
           "min_needed": null,
-          "explanation": null,
+          "explanation": "There can be no more than three courses from any one department (excluding ORFE).",
           "course_list": [
             "NEU 437: Computational Neuroscience",
             "NEU 330: Computational Modeling of Psychological Function"
@@ -228,7 +228,7 @@
           "name": "PSY",
           "max_counted": 3,
           "min_needed": null,
-          "explanation": null,
+          "explanation": "There can be no more than three courses from any one department (excluding ORFE).",
           "course_list": [
             "PSY 360: Computational Models of Cognition"
           ]
@@ -270,6 +270,9 @@
               "max_counted": 1,
               "min_needed": 1,
               "explanation": null,
+              "excluded_course_list": [
+                "ORF 478: Senior Thesis"
+              ],
               "course_list": [
                 "ORF 4**"
               ]
