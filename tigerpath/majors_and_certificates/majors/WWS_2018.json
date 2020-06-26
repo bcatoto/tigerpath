@@ -32,7 +32,7 @@
           "name": "Statistics",
           "max_counted": 1,
           "min_needed": 1,
-          "explanation": "Note: AP Statistics does not fulfill this prerequisite.",
+          "explanation": "Statistics (One Course Required). Note: AP Statistics does not fulfill this prerequisite.",
           "course_list": [
             "WWS 200",
             "ECO 302",
@@ -45,7 +45,7 @@
           "name": "Microeconomics",
           "max_counted": 1,
           "min_needed": 1,
-          "explanation": "Note: AP Microeconomic does not fulfill this prerequisite.",
+          "explanation": "Microeconomics (One Course Required). Note: AP Microeconomic does not fulfill this prerequisite.",
           "course_list": [
             "ECO 100",
             "ECO 300",
@@ -63,7 +63,7 @@
           ]
         },
         {
-          "name": "Politics, Sociology or Psychology Prerequisite",
+          "name": "Politics, Sociology or Psychology",
           "max_counted": 1,
           "min_needed": 1,
           "explanation": "Any course with a POL, SOC, or PSY listing or cross-listed course with a POL, SOC or PSY listing. A course taken to meet the statistics requirement cannot be used to meet this requirement.",
@@ -78,14 +78,14 @@
     {
       "name": "Core Curriculum",
       "max_counted": 1,
-      "min_needed": 9,
+      "min_needed": "ALL",
       "explanation": "Prior to graduation, WWS students must complete the core course requirements listed below. All courses used to meet these requirements must be taken at Princeton on a graded basis (no pdf). Courses taken to meet elective requirements cannot be used to fulfill core requirements.",
       "req_list": [
         {
           "name": "Microeconomics",
           "max_counted": 1,
           "min_needed": 1,
-          "explanation": null,
+          "explanation": "One Course in Microeconomics.",
           "course_list": [
             "WWS 300",
             "ECO 300",
@@ -96,7 +96,7 @@
           "name": "Politics",
           "max_counted": 1,
           "min_needed": 1,
-          "explanation": null,
+          "explanation": "One Course in Politics.",
           "course_list": [
             "POL 220/WWS 310",
             "POL 230/WWS 325",
@@ -108,7 +108,7 @@
           "name": "Sociology or Psychology",
           "max_counted": 1,
           "min_needed": 1,
-          "explanation": null,
+          "explanation": "One Course in Sociology or Psychology.",
           "course_list": [
             "WWS 345/AAS 384/PSY 384",
             "WWS 330",
@@ -122,7 +122,7 @@
           "name": "Science Policy",
           "max_counted": 1,
           "min_needed": 1,
-          "explanation": null,
+          "explanation": "One Course in Science Policy.",
           "course_list": [
             "WWS 350",
             "WWS 351",
@@ -137,7 +137,7 @@
           "name": "Ethics",
           "max_counted": 1,
           "min_needed": 1,
-          "explanation": null,
+          "explanation": "One Course in Ethics.",
           "course_list": [
             "WWS 370/POL 308",
             "POL 307",
@@ -937,6 +937,41 @@
         }
       ]
     },
+
+    {
+      "name": "Language Requirement",
+      "max_counted": 1,
+      "min_needed": 1,
+      "explanation": "WWS majors must complete at least one foreign language course beyond the current University requirement. This may be done by:\n(1) taking an additional course (200 or 300 level) in the language used to meet the University requirement. Either a language course or a course taught in the foreign language may be used; or\n(2) taking a course at least at the 102 level in a language other than the one used to fulfill the University foreign language requirement.\nCourses used to meet this requirement may be taken at Princeton or elsewhere; all courses must be taken on a graded basis.\nWhen they declare their concentration, students who are bilingual may apply to WWS to have this requirement waived.",
+      "req_list": [
+        {
+          "name": null,
+          "max_counted": 1,
+          "min_needed": null,
+          "explanation": "An additional course (200 or 300 level) in the language used to meet the University requirement. Either a language course or a course taught in the foreign language may be used.",
+          "note": "LANG stands for any one single language",
+          "course_list": [
+            "LANG 2**",
+            "LANG 3**"
+          ]
+        },
+        {
+          "name": null,
+          "max_counted": 1,
+          "min_needed": 1,
+          "explanation": "A course at least at the 102 level in a language other than the one used to fulfill the University foreign language requirement.",
+          "course_list": [
+            "LANG 102",
+            "LANG 103",
+            "LANG 104",
+            "LANG 105",
+            "LANG 106",
+            "LANG 107",
+            "LANG 108"
+          ]
+        }
+      ]
+    },
     {
       "name": "Independent Work",
       "max_counted": 1,
@@ -969,40 +1004,6 @@
           "min_needed": null,
           "explanation": "Each student must complete a senior thesis that clearly articulates a research question about a significant public policy issue and draws conclusions that contribute to the debate on that issue.",
           "no_req": null
-        }
-      ]
-    },
-    {
-      "name": "Language Requirement",
-      "max_counted": 1,
-      "min_needed": 1,
-      "explanation": "WWS majors must complete at least one foreign language course beyond the current University requirement. This may be done by:\n(1) taking an additional course (200 or 300 level) in the language used to meet the University requirement. Either a language course or a course taught in the foreign language may be used; or\n(2) taking a course at least at the 102 level in a language other than the one used to fulfill the University foreign language requirement.\nCourses used to meet this requirement may be taken at Princeton or elsewhere; all courses must be taken on a graded basis.\nWhen they declare their concentration, students who are bilingual may apply to WWS to have this requirement waived.",
-      "req_list": [
-        {
-          "name": null,
-          "max_counted": 1,
-          "min_needed": null,
-          "explanation": "An additional course (200 or 300 level) in the language used to meet the University requirement. Either a language course or a course taught in the foreign language may be used.",
-          "note": "LANG stands for any one single language",
-          "course_list": [
-            "LANG 2**",
-            "LANG 3**"
-          ]
-        },
-        {
-          "name": null,
-          "max_counted": 1,
-          "min_needed": 1,
-          "explanation": "A course at least at the 102 level in a language other than the one used to fulfill the University foreign language requirement.",
-          "course_list": [
-            "LANG 102",
-            "LANG 103",
-            "LANG 104",
-            "LANG 105",
-            "LANG 106",
-            "LANG 107",
-            "LANG 108"
-          ]
         }
       ]
     },
