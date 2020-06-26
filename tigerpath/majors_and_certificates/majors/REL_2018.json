@@ -144,52 +144,60 @@
       ]
     },
     {
-      "name": "Critical Approaches to the Study of Religion",
-      "max_counted": 1,
-      "min_needed": 1,
-      "explanation": null,
-      "course_list": [
-        "REL 244/NES 244/MED 246",
-        "REL 261/CHV 261",
-        "REL 263",
-        "REL 264/CHV 264/PHI 264",
-        "REL 347/JDS 347",
-        "REL 364/HUM 364/GSS 412",
-        "REL 383"
-      ]
-    },
-    {
       "name": "Additional Courses",
       "max_counted": 1,
-      "min_needed": 2,
-      "explanation": null,
-      "course_list": [
-        "REL *"
-      ],
-      "excluded_course_list": [
-        "REL 219/SOC 219",
-        "REL 343/JDS 339/HEB 343",
-        "REL 354",
-        "AAS 321/REL 321",
-        "ANT 208/REL 208",
-        "ART 310/HLS 354/MED 307/REL 305",
-        "ART 409/REL 409",
-        "ART 431/MED 431/REL 431",
-        "COM 202/JDS 203/REL 203",
-        "HUM 315/CLA 315/REL 301",
-        "JDS 204/REL 204",
-        "JDS 224/REL 217",
-        "JDS 302/NES 302/REL 302/HEB 322",
-        "JDS 305/REL 305",
-        "JDS 307/REL 307",
-        "JDS 321/REL 384",
-        "NES 221/JDS 223/REL 216",
-        "NES 339/REL 339",
-        "NES 379/JDS 378/GSS 380/REL 376",
-        "NES 545/MED 545/REL 548/JDS 545",
-        "NES 556/REL 556",
-        "POL 309/REL 309",
-        "SAS 345/REL 345"
+      "min_needed": 3,
+      "explanation": "Students will take three additional courses taught by department faculty. At least one of these courses must be a course designated \"Critical Approaches to the Study of Religion.\" At least one such course will be offered every academic year. Please note: Critical Approaches courses do not double-count for subfield distributions.",
+      "req_list": [
+        {
+          "name": "Critical Approaches to the Study of Religion",
+          "max_counted": null,
+          "min_needed": 1,
+          "explanation": "At least one of these courses must be a course designated \"Critical Approaches to the Study of Religion.\" Please note: Critical Approaches courses do not double-count for subfield distributions.",
+          "course_list": [
+            "REL 244/NES 244/MED 246",
+            "REL 261/CHV 261",
+            "REL 263",
+            "REL 264/CHV 264/PHI 264",
+            "REL 347/JDS 347",
+            "REL 364/HUM 364/GSS 412",
+            "REL 383"
+          ]
+        },
+        {
+          "name": "Department Courses",
+          "max_counted": 2,
+          "min_needed": null,
+          "explanation": null,
+          "course_list": [
+            "REL *"
+          ],
+          "excluded_course_list": [
+            "REL 219/SOC 219",
+            "REL 343/JDS 339/HEB 343",
+            "REL 354",
+            "AAS 321/REL 321",
+            "ANT 208/REL 208",
+            "ART 310/HLS 354/MED 307/REL 305",
+            "ART 409/REL 409",
+            "ART 431/MED 431/REL 431",
+            "COM 202/JDS 203/REL 203",
+            "HUM 315/CLA 315/REL 301",
+            "JDS 204/REL 204",
+            "JDS 224/REL 217",
+            "JDS 302/NES 302/REL 302/HEB 322",
+            "JDS 305/REL 305",
+            "JDS 307/REL 307",
+            "JDS 321/REL 384",
+            "NES 221/JDS 223/REL 216",
+            "NES 339/REL 339",
+            "NES 379/JDS 378/GSS 380/REL 376",
+            "NES 545/MED 545/REL 548/JDS 545",
+            "NES 556/REL 556",
+            "POL 309/REL 309",
+            "SAS 345/REL 345"
+          ]
+        }
       ]
     },
     {
