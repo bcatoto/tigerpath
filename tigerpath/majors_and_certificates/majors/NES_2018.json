@@ -45,41 +45,79 @@
       ]
     },
     {
-      "name": "Seminar in Research Methods",
+      "name": "Departmentals",
       "max_counted": 1,
       "min_needed": "ALL",
-      "explanation": "All students are required to take NES 300 (Seminar in Research Methods) in the junior year unless they are studying abroad that semester, in which case they are required to take NES 300 in the senior year.",
-      "course_list": [
-        "NES 300"
-      ]
-    },
-    {
-      "name": "Distribution Requirements",
-      "max_counted": null,
-      "min_needed": null,
-      "explanation": "<i>Editor's Note: This requirement is too broad or requires course approval from the concentrator's Director of Undergraduate Studies, so TigerPath does not check it.</i>\n\nSeven other deparmentals that fulfill the following distribution requirements in historical periods, regions, and disciplines.",
+      "explanation": "NES majors take eight departmental courses in Near Eastern Studies.\nA single course may satisfy multiple distribution requirements across these domains. For example, a course focusing on 20th century Turkish literature may count as modern (Historical Periods), Ottoman Empire/Turkey (Regions), and literature (Disciplines).\nA single course may not, however, satisfy more than one distribution requirement within a single domain; a course on Arabic literature that spans the pre-modern and modern periods would thus not satisfy both the pre-modern and modern Historical Periods requirements.\nAt least five departmentals must be NES-prefix or language courses. Up to three may be cognate courses (courses in other departments not cross-listed with NES that focus on the Near East), on the approval of the Department Representative.\nLanguage courses beyond the 107 level count as departmentals, as does elementary and intermediate study of a second Near Eastern language.",
       "req_list": [
         {
-          "name": "Historical Periods",
-          "max_counted": null,
-          "min_needed": null,
-          "explanation": "<i>Editor's Note: This requirement is too broad or requires course approval from the concentrator's Director of Undergraduate Studies, so TigerPath does not check it.</i>\n\nAt least one course focused on the pre-modern Near East (before 1800) and at least one course focused on the modern Near East.",
-          "no_req": null
+          "name": "Seminar in Research Methods",
+          "max_counted": 1,
+          "min_needed": "ALL",
+          "explanation": "All students are required to take NES 300 (Seminar in Research Methods) in the junior year unless they are studying abroad that semester, in which case they are required to take NES 300 in the senior year.",
+          "course_list": [
+            "NES 300"
+          ]
         },
         {
-          "name": "Regions",
+          "name": "Distribution Requirements",
           "max_counted": null,
           "min_needed": null,
-          "explanation": "<i>Editor's Note: This requirement is too broad or requires course approval from the concentrator's Director of Undergraduate Studies, so TigerPath does not check it.</i>\n\nAt least two regionally specific courses. Each must focus on one of the following six sub-regions of the Near East. They may not focus on the same region: Egypt, North Africa, and Andalusia; The Levant, Iraq, and the Arabian peninsula; Ottoman empire/Turkey; Iran; Muslim South and Central Asia; Diasporic communities.",
-          "no_req": null
+          "explanation": "<i>Editor's Note: This requirement is too broad or requires course approval from the concentrator's Director of Undergraduate Studies, so TigerPath does not check it.</i>\n\nSeven other deparmentals that fulfill the following distribution requirements in historical periods, regions, and disciplines.\nA single course may satisfy multiple distribution requirements across these domains. For example, a course focusing on 20th century Turkish literature may count as modern (Historical Periods), Ottoman Empire/Turkey (Regions), and literature (Disciplines).\nA single course may not, however, satisfy more than one distribution requirement within a single domain; a course on Arabic literature that spans the pre-modern and modern periods would thus not satisfy both the pre-modern and modern Historical Periods requirements.",
+          "req_list": [
+            {
+              "name": "Historical Periods",
+              "max_counted": null,
+              "min_needed": null,
+              "explanation": "<i>Editor's Note: This requirement is too broad or requires course approval from the concentrator's Director of Undergraduate Studies, so TigerPath does not check it.</i>\n\nAt least one course focused on the pre-modern Near East (before 1800) and at least one course focused on the modern Near East.",
+              "no_req": null
+            },
+            {
+              "name": "Regions",
+              "max_counted": null,
+              "min_needed": null,
+              "explanation": "<i>Editor's Note: This requirement is too broad or requires course approval from the concentrator's Director of Undergraduate Studies, so TigerPath does not check it.</i>\n\nAt least two regionally specific courses. Each must focus on one of the following six sub-regions of the Near East. They may not focus on the same region: Egypt, North Africa, and Andalusia; The Levant, Iraq, and the Arabian peninsula; Ottoman empire/Turkey; Iran; Muslim South and Central Asia; Diasporic communities.",
+              "no_req": null
+            },
+            {
+              "name": "Disciplines",
+              "max_counted": null,
+              "min_needed": null,
+              "explanation": "<i>Editor's Note: This requirement is too broad or requires course approval from the concentrator's Director of Undergraduate Studies, so TigerPath does not check it.</i>\n\nAt least one course in two of the following four disciplines: History, Literature, Social sciences, Religion.",
+              "no_req": null
+            }
+          ]
         },
         {
-          "name": "Disciplines",
-          "max_counted": null,
-          "min_needed": null,
-          "explanation": "<i>Editor's Note: This requirement is too broad or requires course approval from the concentrator's Director of Undergraduate Studies, so TigerPath does not check it.</i>\n\nAt least one course in two of the following four disciplines: History, Literature, Social sciences, Religion.",
-          "no_req": null
-        }
+          "name": "8 Departmentals",
+          "max_counted": 1,
+          "min_needed": 8,
+          "explanation": "NES majors take eight departmental courses in Near Eastern Studies.",
+          "double_counting_allowed": true,
+          "req_list": [
+            {
+              "name": "NES-Prefix Courses",
+              "max_counted": null,
+              "min_needed": 5,
+              "explanation": "At least five departmentals must be NES-prefix or language courses.",
+              "course_list": [
+                "NES *"
+              ]
+            },
+            {
+              "name": "Cognates",
+              "max_counted": 3,
+              "min_needed": null,
+              "explanation": "Up to three may be cognate courses (courses in other departments not cross-listed with NES that focus on the Near East), on the approval of the Department Representative. Language courses beyond the 107 level count as departmentals, as does elementary and intermediate study of a second Near Eastern language.",
+              "course_list": [
+                "LANG 2*",
+                "LANG 3*",
+                "LANG 4*",
+                "LANG 5*"
+              ]
+            }
+          ]
+        },
       ]
     },
     {
