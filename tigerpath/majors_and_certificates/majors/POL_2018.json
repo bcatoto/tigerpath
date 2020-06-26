@@ -35,7 +35,7 @@
     {
       "name": "Departmentals",
       "max_counted": 1,
-      "min_needed": 8,
+      "min_needed": "ALL",
       "explanation": "By the end of the senior year, all students in the Department must complete, in addition to prerequisites, no fewer than eight departmental courses, of which two may be cognates. Note that the University sets a maximum of 12 courses (plus independent work) in a given department. Additional courses in the department may be taken, but will not count towards the 31-course minimum required for graduation. Any course taken in the department counts as a POL departmental (in other words, you cannot take a POL course and not have it count as a departmental course). Note that such courses have the prefix POL in their course number. This includes courses that are cross-listed with other departments, including courses where POL is not listed first—e.g. AAS 362/WWS 386/POL 338. Note: Note it is now possible to take a 200-level course in a subfield after having taken 2, 300-level courses in that subfield. (This had not been allowed prior to Academic Year, 2020-2021.)",
       "req_list": [
         {
@@ -63,15 +63,15 @@
           ]
         },
         {
-          "name": "Field",
-          "max_counted": null,
-          "min_needed": 7,
+          "name": "Primary Field",
+          "max_counted": 1,
+          "min_needed": 1,
           "explanation": "Upon entering the department, students designate a primary field (American Politics, Comparative Politics, International Relations, or Political Theory). Senior theses are written on a topic within the primary field. Concentrators must take at least three courses in their primary field. In addition, concentrators must take at least two courses in a second field, and at least one course in a third field. Five areas of study are eligible for designation as secondary or tertiary field: American Politics, Comparative Politics, International Relations, Political Theory, and Methods (which includes both quantitative methods and formal theory courses). Methods may not be used as a primary field. A course taken to fulfill the Analytic Requirement cannot also be counted towards a field distribution requirement. Prerequisites may be used to satisfy field distribution requirements. Some courses are listed in more than one field, but no course may be simultaneously counted toward more than one field. The primary field may be changed at any time before the end of the first semester of the junior year.",
           "req_list": [
             {
               "name": "Political Theory",
-              "max_counted": 4,
-              "min_needed": null,
+              "max_counted": 1,
+              "min_needed": 3,
               "explanation": "The PT sub-field focuses on the nature of justice, democracy, power, and other key ideas, and encourages students to develop frameworks for thinking evaluatively about pressing issues of politics and public policy of the day.",
               "course_list": [
                 "POL 210",
@@ -95,8 +95,8 @@
             },
             {
               "name": "American Politics",
-              "max_counted": 4,
-              "min_needed": null,
+              "max_counted": 1,
+              "min_needed": 3,
               "explanation": "The AP sub-field focuses on the U.S. political system and includes the study of the development of the American system of governance, American political institutions, the attitudes and behaviors of U.S. residents, and the relationship between institutions and people.",
               "course_list": [
                 "POL 220",
@@ -128,8 +128,8 @@
             },
             {
               "name": "Comparative Politics",
-              "max_counted": 4,
-              "min_needed": null,
+              "max_counted": 1,
+              "min_needed": 3,
               "explanation": "The CP sub-field focuses on the similarities and differences in patterns of politics around the world with attention to what happens within states regarding representation, economic development, violence, and effective government.",
               "course_list": [
                 "POL 230",
@@ -151,8 +151,115 @@
             },
             {
               "name": "International Relations",
-              "max_counted": 4,
-              "min_needed": null,
+              "max_counted": 1,
+              "min_needed": 3,
+              "explanation": "The IR sub-field focuses on the study of politics among nations and non-state actors in world affairs including subjects such as the causes of war, the role of international law and institutions, economic interdependence, and cooperation to advance common goals for human rights and environmental protection.",
+              "course_list": [
+                "POL 240",
+                "POL 380",
+                "POL 385",
+                "POL 386",
+                "POL 388",
+                "POL 393",
+                "POL 396",
+                "POL 399",
+                "POL 440",
+                "POL 442"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Second Field",
+          "max_counted": 1,
+          "min_needed": 1,
+          "explanation": "In addition, concentrators must take at least two courses in a second field.",
+          "req_list": [
+            {
+              "name": "Political Theory",
+              "max_counted": 1,
+              "min_needed": 2,
+              "explanation": "The PT sub-field focuses on the nature of justice, democracy, power, and other key ideas, and encourages students to develop frameworks for thinking evaluatively about pressing issues of politics and public policy of the day.",
+              "course_list": [
+                "POL 210",
+                "POL 301",
+                "POL 303",
+                "POL 305",
+                "POL 307",
+                "POL 308",
+                "POL 311",
+                "POL 315",
+                "POL 316",
+                "POL 317",
+                "POL 319",
+                "POL 406",
+                "POL 418",
+                "POL 473",
+                "POL 474",
+                "POL 475",
+                "POL 492"
+              ]
+            },
+            {
+              "name": "American Politics",
+              "max_counted": 1,
+              "min_needed": 2,
+              "explanation": "The AP sub-field focuses on the U.S. political system and includes the study of the development of the American system of governance, American political institutions, the attitudes and behaviors of U.S. residents, and the relationship between institutions and people.",
+              "course_list": [
+                "POL 220",
+                "POL 315",
+                "POL 316",
+                "POL 318",
+                "POL 319",
+                "POL 320",
+                "POL 324",
+                "POL 325",
+                "POL 326",
+                "POL 327",
+                "POL 329",
+                "POL 330",
+                "POL 334",
+                "POL 335",
+                "POL 336",
+                "POL 339",
+                "POL 341",
+                "POL 342",
+                "POL 344",
+                "POL 349",
+                "POL 420",
+                "POL 422",
+                "POL 423",
+                "POL 428",
+                "POL 429"
+              ]
+            },
+            {
+              "name": "Comparative Politics",
+              "max_counted": 1,
+              "min_needed": 2,
+              "explanation": "The CP sub-field focuses on the similarities and differences in patterns of politics around the world with attention to what happens within states regarding representation, economic development, violence, and effective government.",
+              "course_list": [
+                "POL 230",
+                "POL 338",
+                "POL 349",
+                "POL 351",
+                "POL 352",
+                "POL 355",
+                "POL 360",
+                "POL 366",
+                "POL 367",
+                "POL 374",
+                "POL 384",
+                "POL 432",
+                "POL 433",
+                "POL 434",
+                "POL 479"
+              ]
+            },
+            {
+              "name": "International Relations",
+              "max_counted": 1,
+              "min_needed": 2,
               "explanation": "The IR sub-field focuses on the study of politics among nations and non-state actors in world affairs including subjects such as the causes of war, the role of international law and institutions, economic interdependence, and cooperation to advance common goals for human rights and environmental protection.",
               "course_list": [
                 "POL 240",
@@ -169,8 +276,8 @@
             },
             {
               "name": "Methods",
-              "max_counted": 3,
-              "min_needed": null,
+              "max_counted": 1,
+              "min_needed": 2,
               "explanation": "(Cannot be the primary field). These courses provide undergraduate students with analytical tools they can use to conduct rigorous social science research.",
               "course_list": [
                 "POL 250",
@@ -180,6 +287,135 @@
                 "POL 347"
               ]
             }
+          ]
+        },
+        {
+          "name": "Third Field",
+          "max_counted": 1,
+          "min_needed": 1,
+          "explanation": "At least one course in a third field.",
+          "req_list": [
+            {
+              "name": "Political Theory",
+              "max_counted": 1,
+              "min_needed": 1,
+              "explanation": "The PT sub-field focuses on the nature of justice, democracy, power, and other key ideas, and encourages students to develop frameworks for thinking evaluatively about pressing issues of politics and public policy of the day.",
+              "course_list": [
+                "POL 210",
+                "POL 301",
+                "POL 303",
+                "POL 305",
+                "POL 307",
+                "POL 308",
+                "POL 311",
+                "POL 315",
+                "POL 316",
+                "POL 317",
+                "POL 319",
+                "POL 406",
+                "POL 418",
+                "POL 473",
+                "POL 474",
+                "POL 475",
+                "POL 492"
+              ]
+            },
+            {
+              "name": "American Politics",
+              "max_counted": 1,
+              "min_needed": 1,
+              "explanation": "The AP sub-field focuses on the U.S. political system and includes the study of the development of the American system of governance, American political institutions, the attitudes and behaviors of U.S. residents, and the relationship between institutions and people.",
+              "course_list": [
+                "POL 220",
+                "POL 315",
+                "POL 316",
+                "POL 318",
+                "POL 319",
+                "POL 320",
+                "POL 324",
+                "POL 325",
+                "POL 326",
+                "POL 327",
+                "POL 329",
+                "POL 330",
+                "POL 334",
+                "POL 335",
+                "POL 336",
+                "POL 339",
+                "POL 341",
+                "POL 342",
+                "POL 344",
+                "POL 349",
+                "POL 420",
+                "POL 422",
+                "POL 423",
+                "POL 428",
+                "POL 429"
+              ]
+            },
+            {
+              "name": "Comparative Politics",
+              "max_counted": 1,
+              "min_needed": 1,
+              "explanation": "The CP sub-field focuses on the similarities and differences in patterns of politics around the world with attention to what happens within states regarding representation, economic development, violence, and effective government.",
+              "course_list": [
+                "POL 230",
+                "POL 338",
+                "POL 349",
+                "POL 351",
+                "POL 352",
+                "POL 355",
+                "POL 360",
+                "POL 366",
+                "POL 367",
+                "POL 374",
+                "POL 384",
+                "POL 432",
+                "POL 433",
+                "POL 434",
+                "POL 479"
+              ]
+            },
+            {
+              "name": "International Relations",
+              "max_counted": 1,
+              "min_needed": 1,
+              "explanation": "The IR sub-field focuses on the study of politics among nations and non-state actors in world affairs including subjects such as the causes of war, the role of international law and institutions, economic interdependence, and cooperation to advance common goals for human rights and environmental protection.",
+              "course_list": [
+                "POL 240",
+                "POL 380",
+                "POL 385",
+                "POL 386",
+                "POL 388",
+                "POL 393",
+                "POL 396",
+                "POL 399",
+                "POL 440",
+                "POL 442"
+              ]
+            },
+            {
+              "name": "Methods",
+              "max_counted": 1,
+              "min_needed": 1,
+              "explanation": "(Cannot be the primary field). These courses provide undergraduate students with analytical tools they can use to conduct rigorous social science research.",
+              "course_list": [
+                "POL 250",
+                "POL 341",
+                "POL 345",
+                "POL 346",
+                "POL 347"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Additional Course",
+          "max_counted": 1,
+          "min_needed": 1,
+          "explanation": null,
+          "course_list": [
+            "POL *"
           ]
         }
       ]
@@ -294,7 +530,7 @@
                   "name": "Politics",
                   "max_counted": 1,
                   "min_needed": 2,
-                  "explanation": null,
+                  "explanation": "To participate in this Program, students must complete two Politics courses and ECO 100 and 101, and MAT 103 (or higher level) before the end of their sophomore year.",
                   "course_list": [
                     "POL *"
                   ]
@@ -303,7 +539,7 @@
                   "name": "Economics",
                   "max_counted": 1,
                   "min_needed": "ALL",
-                  "explanation": null,
+                  "explanation": "To participate in this Program, students must complete two Politics courses and ECO 100 and 101, and MAT 103 (or higher level) before the end of their sophomore year.",
                   "course_list": [
                     "ECO 100",
                     "ECO 101"
@@ -313,7 +549,7 @@
                   "name": "Math",
                   "max_counted": 1,
                   "min_needed": 1,
-                  "explanation": null,
+                  "explanation": "To participate in this Program, students must complete two Politics courses and ECO 100 and 101, and MAT 103 (or higher level) before the end of their sophomore year.",
                   "course_list": [
                     "MAT 103",
                     "MAT 104",
