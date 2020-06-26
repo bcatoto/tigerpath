@@ -1,7 +1,7 @@
 {
   "type": "Major",
   "name": "Spanish and Portuguese",
-  "code": "SPL",
+  "code": "SPO",
   "degree": "AB",
   "year": 2018,
   "urls": [
@@ -22,13 +22,13 @@
   ],
   "req_list": [
     {
-      "name:" "Concentration",
+      "name": "Concentration",
       "max_counted": 1,
       "min_needed": 1,
       "explanation": null,
       "req_list": [
         {
-          "name:" "Spanish",
+          "name": "Spanish",
           "max_counted": 1,
           "min_needed": "ALL",
           "explanation": null,
@@ -43,7 +43,7 @@
               ]
             },
             {
-              "name:" "Advanced Language",
+              "name": "Advanced Language",
               "max_counted": 1,
               "min_needed": 1,
               "explanation": "All Spanish concentrators are strongly advised to take one advanced language course (SPA 205, SPA 207, SPA 207S, SPA 208S, SPA 209 or SPA 307), unless the Director of Undergraduate Studies (in consultation with the language directors) determines that the respective student’s language skills do not warrant taking such course.",
@@ -57,16 +57,14 @@
               ]
             },
             {
-              "name:" "Pre-1800 Literature",
-              "max_counted": 1,
-              "min_needed": 1,
-              "explanation": "All Spanish concentrators must take one course in pre-1800 literature. University regulations limit to 12 the number of departmental courses allowed to each student in his or her concentration. Students cannot earn both a SPO concentration (in any track) and a SPO certificate (in any language). Students interested in focusing both in Spanish and Portuguese may choose Track 2 for their concentration.",
-              "course_list": [
-
-              ]
+              "name": "Pre-1800 Literature",
+              "max_counted": null,
+              "min_needed": null,
+              "explanation": "<i>Editor's Note: This requirement is too broad, so TigerPath does not check it.</i>\n\nAll Spanish concentrators must take one course in pre-1800 literature. University regulations limit to 12 the number of departmental courses allowed to each student in his or her concentration. Students cannot earn both a SPO concentration (in any track) and a SPO certificate (in any language). Students interested in focusing both in Spanish and Portuguese may choose Track 2 for their concentration.",
+              "no_req": null
             },
             {
-              "name:" "Upper Division Courses",
+              "name": "Upper Division Courses",
               "max_counted": 1,
               "min_needed": 5,
               "explanation": "Any track in the concentration in Spanish and/or Portuguese Literature and Cultures requires a minimum of eight upper-division courses, at least five of which must be in the language of concentration. With the approval of the Director of Undergraduate Studies, up to three courses taken during a semester abroad may count towards the concentration if the student is pursuing Track 1 or Track 2. Up to two courses taken during a semester abroad may be counted towards the concentration if the student is pursuing Track 3 or Track 4.",
@@ -83,7 +81,7 @@
           ]
         },
         {
-          "name:" "Portuguese",
+          "name": "Portuguese",
           "max_counted": 1,
           "min_needed": "ALL",
           "explanation": null,
@@ -98,7 +96,7 @@
               ]
             },
             {
-              "name:" "Upper Division Courses",
+              "name": "Upper Division Courses",
               "max_counted": 1,
               "min_needed": 5,
               "explanation": "Any track in the concentration in Spanish and/or Portuguese Literature and Cultures requires a minimum of eight upper-division courses, at least five of which must be in the language of concentration. With the approval of the Director of Undergraduate Studies, up to three courses taken during a semester abroad may count towards the concentration if the student is pursuing Track 1 or Track 2. Up to two courses taken during a semester abroad may be counted towards the concentration if the student is pursuing Track 3 or Track 4.",
@@ -119,15 +117,15 @@
     {
       "name": "Tracks",
       "max_counted": 1,
-      "min_needed": null,
-      "explanation": "Departmental courses cover a wide array of literary, cultural, social, historical, and political topics. Students are, therefore, able to pursue courses of study that are tailor-made to their own individual interests. The department offers four different tracks for concentrators:",
+      "min_needed": 1,
+      "explanation": "Departmental courses cover a wide array of literary, cultural, social, historical, and political topics. Students are, therefore, able to pursue courses of study that are tailor-made to their own individual interests. The department offers four different tracks for concentrators.",
       "req_list": [
         {
           "name": "One Language, Literature, and Culture",
           "max_counted": 1,
           "min_needed": 3,
           "explanation": "Concentration in one language, literature, and cultures (Spanish or Portuguese). Eight upper-division courses in the language of concentration. Up to two of those courses may be taken in English, in which case all written work must be completed in the target language.",
-          "req_list": [
+          "course_list": [
             "SPA 2*",
             "SPA 3*",
             "SPA 4*",
@@ -138,16 +136,16 @@
             "POR 5*"
           ],
           "excluded_course_list": [
-            "SPA 20*"
+            "SPA 20*",
             "POR 20*"
           ]
         },
         {
           "name": "Two Languages, Literatures, and Cultures",
           "max_counted": 1,
-          "min_needed": null,
+          "min_needed": 3,
           "explanation": "Concentration in two languages, literature and cultures (Spanish and Portuguese; or Spanish/Portuguese and another language). Requires a combination of five upper-division courses in Spanish or Portuguese and three upper-division courses in the second language. One of the five upper-division courses in Spanish or Portuguese may be taken in English, in which case all written work must be completed in the target language.",
-          "req_list": [
+          "course_list": [
             "LANG 3*",
             "LANG 4*",
             "LAGN 5*",
@@ -245,7 +243,7 @@
       "name": "Senior Thesis",
       "max_counted": null,
       "min_needed": null,
-      "explanation": "<i>Editor's Note: Concentrators of this major do not enroll in any numbered course for this requirement, so TigerPath does not check it.</i>\n\nStudents should select a Senior Thesis adviser by the end of September at the latest. The Senior Thesis is normally written in English, and should be between 15,000 and 20,000 words. Topics chosen in the past have ranged over the whole field of Spanish and Portuguese studies, from linguistic problems and literary techniques through close textual analysis to thematic and ideological studies. Students primarily interested in culture and civilization have written on art, political and economic issues, education, and a variety of social questions. The senior thesis is a major commitment of a student's time and energy, and the most important yardstick for choosing a topic is willingness to spend many hours on a particular set of texts or problems. Please visit the Mudd Library website for inspiration and a listing of previous senior thesis topics over the years. More detailed information can be found in the PDF iconSenior Thesis Handbook.",
+      "explanation": "<i>Editor's Note: Concentrators of this major do not enroll in any numbered course for this requirement, so TigerPath does not check it.</i>\n\nStudents should select a Senior Thesis adviser by the end of September at the latest. The Senior Thesis is normally written in English, and should be between 15,000 and 20,000 words. Topics chosen in the past have ranged over the whole field of Spanish and Portuguese studies, from linguistic problems and literary techniques through close textual analysis to thematic and ideological studies. Students primarily interested in culture and civilization have written on art, political and economic issues, education, and a variety of social questions. The senior thesis is a major commitment of a student's time and energy, and the most important yardstick for choosing a topic is willingness to spend many hours on a particular set of texts or problems. Please visit the Mudd Library website for inspiration and a listing of previous senior thesis topics over the years. More detailed information can be found in the Senior Thesis Handbook.",
       "no_req": null
     }
   ]
