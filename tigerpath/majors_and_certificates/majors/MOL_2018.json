@@ -25,16 +25,16 @@
       "name": "Prerequisites",
       "max_counted": 1,
       "min_needed": 1,
-      "explanation": "To enter the Department of Molecular Biology, students must have completed MOL 214 with a grade of C or better. CHM 201/207 and 202, or one unit of chemistry AP credit and CHM 202 or 215, or two units of chemistry AP credit, are also required to enter the department. An alternate path into the department is through the integrated science curriculum",
+      "explanation": "To enter the Department of Molecular Biology, students must have completed MOL 214 with a grade of C or better. CHM 201/207 and 202, or one unit of chemistry AP credit and CHM 202 or 215, or two units of chemistry AP credit, are also required to enter the department. An alternate path into the department is through the integrated science curriculum.",
       "req_list": [
         {
-          "name": null,
+          "name": "Regular Track",
           "max_counted": 1,
           "min_needed": "ALL",
-          "explanation": "Regular track",
+          "explanation": "To enter the Department of Molecular Biology, students must have completed MOL 214 with a grade of C or better. CHM 201/207 and 202, or one unit of chemistry AP credit and CHM 202 or 215, or two units of chemistry AP credit, are also required to enter the department.",
           "req_list": [
             {
-              "name": null,
+              "name": "Molecular Biology",
               "max_counted": 1,
               "min_needed": "ALL",
               "explanation": null,
@@ -43,7 +43,7 @@
               ]
             },
             {
-              "name": null,
+              "name": "Chemistry",
               "max_counted": 1,
               "min_needed": "ALL",
               "explanation": null,
@@ -73,10 +73,10 @@
           ]
         },
         {
-          "name": null,
-          "max_counted": null,
-          "min_needed": 3,
-          "explanation": "ISC track",
+          "name": "ISC Track",
+          "max_counted": 1,
+          "min_needed": "ALL",
+          "explanation": "An alternate path into the department is through the integrated science curriculum.",
           "course_list": [
             "ISC 231",
             "ISC 232",
@@ -97,6 +97,7 @@
           "min_needed": 1,
           "explanation": "CHM 301/303 & 302/304/304B, or CHM 337. Courses taken at other institutions can be used toward fulfillment of the chemistry requirements with approval from the Department of Chemistry. The organic chemistry requirement must be completed before the beginning of the junior year.",
           "completed_by_semester": 6,
+          "double_counting_allowed": true,
           "req_list": [
             {
               "name": null,
@@ -107,7 +108,7 @@
                 {
                   "name": null,
                   "max_counted": 1,
-                  "min_needed": "ALL",
+                  "min_needed": 1,
                   "explanation": null,
                   "course_list": [
                     "CHM 301",
@@ -130,7 +131,7 @@
             {
               "name": null,
               "max_counted": 1,
-              "min_needed": 1,
+              "min_needed": "ALL",
               "explanation": null,
               "course_list": [
                 "CHM 337"
@@ -148,7 +149,7 @@
               "name": "Statistics",
               "max_counted": 1,
               "min_needed": 1,
-              "explanation": null,
+              "explanation": "One course in statistics (SML 201, ORF 245, or MOL 290).",
               "course_list": [
                 "SML 201",
                 "ORF 245",
@@ -159,7 +160,7 @@
               "name": "Computer Science or Math",
               "max_counted": 1,
               "min_needed": 1,
-              "explanation": null,
+              "explanation": "One course in either computer science (COS 126 or above) or math (MAT 103, 104, 175, 192, or any 200-level MAT course).",
               "course_list": [
                 "COS 126",
                 "COS 2*",
@@ -262,7 +263,6 @@
       "max_counted": 1,
       "min_needed": 4,
       "explanation": "All students must take a total of at least eight departmentals. In addition to the four departmental core courses, students must take at least one 300, 400, or 500-level course with MOL as the primary listing. The remaining three departmentals can be chosen from among all 300-or-higher-level MOL, MOL-crosslisted, or other approved courses. Note that CHM 301/303, 302/304/304B, and CHM 337 qualify as departmentals. Only courses taken at Princeton count as departmentals; there are no exceptions to this rule.",
-      "double_counting_allowed": true,
       "course_list": [
         "MOL 3*",
         "MOL 4*",
