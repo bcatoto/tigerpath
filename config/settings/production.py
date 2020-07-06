@@ -2,7 +2,7 @@ from .base import *
 import os
 
 
-DEBUG = True
+DEBUG = False
 ADMIN_ENABLED = DEBUG
 
 WEBPACK_LOADER = {
