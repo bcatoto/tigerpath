@@ -32,7 +32,7 @@
           "name": "Biology",
           "max_counted": 1,
           "min_needed": "ALL",
-          "explanation": "Two terms of introductory biology: EEB 211 and either EEB/MOL 214 or EEB/MOL 215);",
+          "explanation": "Two terms of introductory biology: EEB 211 and either EEB/MOL 214 or EEB/MOL 215).",
           "req_list": [
             {
               "name": null,
@@ -95,7 +95,7 @@
           "name": "Math",
           "max_counted": 1,
           "min_needed": 1,
-          "explanation": "Mastery of calculus to the level of MAT 103 or above, or advanced placement (an AP score of 5 on the AB test or an AP score of 4 on the BC test);",
+          "explanation": "Mastery of calculus to the level of MAT 103 or above, or advanced placement (an AP score of 5 on the AB test or an AP score of 4 on the BC test).",
           "course_list": [
             "MAT 103",
             "MAT 104",
@@ -107,7 +107,7 @@
           "name": "Physics",
           "max_counted": 1,
           "min_needed": 1,
-          "explanation": "The first term of introductory physics (or the equivalent, or an AP score of 5)",
+          "explanation": "The first term of introductory physics (or the equivalent, or an AP score of 5).",
           "course_list": [
             "PHY 101",
             "PHY 102",
