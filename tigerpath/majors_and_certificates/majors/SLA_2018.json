@@ -25,6 +25,7 @@
     {
       "name": "Prerequisites",
       "max_counted": 1,
+<<<<<<< HEAD
       "min_needed": "ALL",
       "explanation": "RUS 101, RUS 102, RUS 105, and RUS 107 (RUS 105R, 107R) – or placement equivalent.",
       "course_list": [
@@ -32,6 +33,13 @@
         "RUS 102",
         "RUS 105",
         "RUS 107"
+=======
+      "min_needed": 1,
+      "explanation": "RUS 101, RUS 102, RUS 105, and RUS 107 (RUS 105R, 107R) – or placement equivalent.",
+      "course_list": [
+        "RUS 107",
+        "RUS 107R"
+>>>>>>> master
       ]
     },
     {
@@ -64,6 +72,7 @@
             "SLA 312",
             "SLA 413"
           ]
+<<<<<<< HEAD
         },
         {
           "name": "Survey Courses",
@@ -77,6 +86,9 @@
             "SLA 221"
           ]
         },
+=======
+        }
+>>>>>>> master
       ]
     },
     {
@@ -90,17 +102,48 @@
           "max_counted": null,
           "min_needed": 4,
           "explanation": "Four upper-level (200 and above) courses must be within the department, two of which must be from the core survey courses (SLA 219, 220, 221)",
+<<<<<<< HEAD
           "course_list": [
             "SLA *"
+=======
+          "req_list": [
+            {
+              "name": "Core Survey Courses",
+              "max_counted": null,
+              "min_needed": 2,
+              "explanation": "Two of three survey courses: SLA 219, 220, 221",
+              "course_list": [
+                "SLA 219",
+                "SLA 220",
+                "SLA 221"
+              ]
+            },
+            {
+              "name": "Additional Courses",
+              "max_counted": null,
+              "min_needed": 2,
+              "explanation": null,
+              "course_list": [
+                "SLA *"
+              ]
+            }
+>>>>>>> master
           ]
         },
         {
           "name": "Cognates",
           "max_counted": 4,
           "min_needed": null,
+<<<<<<< HEAD
           "explanation": "<i>Editor's Note: This requirement is too broad, so TigerPath does not check it.</i>",
           "course_list": [
             "LANG *"
+=======
+          "explanation": "<i>Editor's Note: This does not represent a comprehensive list of courses that fulfill this requirement as courses change from semester to semester.</i>",
+          "course_list": [
+            "LANG *",
+            "ENG *"
+>>>>>>> master
           ]
         }
       ]
