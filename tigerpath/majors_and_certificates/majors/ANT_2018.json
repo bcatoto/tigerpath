@@ -213,7 +213,7 @@
               "req_list": [
                 {
                   "name": "MedAnth Electives",
-                  "max_counted": 1,
+                  "max_counted": null,
                   "min_needed": 3,
                   "explanation": null,
                   "req_list": [
