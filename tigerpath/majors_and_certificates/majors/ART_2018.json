@@ -6,12 +6,8 @@
   "year": 2018,
   "urls": [
     "https://ua.princeton.edu/academic-units/department-art-and-archaeology",
-<<<<<<< HEAD
-    "https://artandarchaeology.princeton.edu/"
-=======
     "https://artandarchaeology.princeton.edu/",
     "https://cms.artandarchaeology.princeton.edu/media/files/2019a-and-augradhandbook-1.pdf"
->>>>>>> master
   ],
   "contacts": [
     {
@@ -67,11 +63,7 @@
                   "name": "Seminars",
                   "max_counted": 1,
                   "min_needed": 2,
-<<<<<<< HEAD
-                  "explanation": "<i>Editor's Note: Many of these courses fall under this requirement but as TigerPath does not verify this.</i>\n\nTwo seminars at the 400- or 500-level",
-=======
                   "explanation": "<i>Editor's Note: Many of these courses fall under this requirement but TigerPath does not verify this.</i>\n\nTwo seminars at the 400- or 500-level",
->>>>>>> master
                   "course_list": [
                     "ART 4*",
                     "ART 5*"
@@ -81,11 +73,7 @@
                   "name": "Additional Courses",
                   "max_counted": 1,
                   "min_needed": 6,
-<<<<<<< HEAD
-                  "explanation": "Students must also take at least one course in each of the following three areas: Group 1 (ancient), Group 2 (medieval/early modern), and Group 3 (modern/contemporary). Thematic courses spanning more than one area will be allocated to a distribution area on a case-by-case basis. ",
-=======
                   "explanation": "<i>Editor's Note: This requirement is too broad, so TigerPath does not verify it.</i>\n\nStudents must also take at least one course in each of the following three areas: Group 1 (ancient), Group 2 (medieval/early modern), and Group 3 (modern/contemporary). Thematic courses spanning more than one area will be allocated to a distribution area on a case-by-case basis.",
->>>>>>> master
                   "course_list": [
                     "ART *"
                   ]
@@ -115,10 +103,7 @@
               "max_counted": 1,
               "min_needed": "ALL",
               "explanation": "Two courses in the Program in Visual Arts and one course in the Department of Art and Archaeology. By the first Wednesday following spring break, sophomores submit an application and a portfolio of creative work to the Lewis Center for the Arts administrative office. The admissions committee for the Program in Visual Arts will notify students accepted into the program by early April. No AP credit is accepted toward the Practice of Art concentration.",
-<<<<<<< HEAD
-=======
               "double_counting_allowed": true,
->>>>>>> master
               "req_list": [
                 {
                   "name": "Visual Arts",
@@ -136,12 +121,9 @@
                   "explanation": "One course in the Department of Art and Archaeology",
                   "course_list": [
                     "ART *"
-<<<<<<< HEAD
-=======
                   ],
                   "excluded_course_list": [
                     "VIS *"
->>>>>>> master
                   ]
                 }
               ]
@@ -159,11 +141,7 @@
                   "explanation": "The visual arts courses must include: studio courses in at least two different media; two studio courses at the 300 or 400 level; VIS 392 Issues in Contemporary Art; and VIS 416 Exhibition Issues and Methods or VIS 417 Fall Film Seminar. The Department of Art and Archaeology courses must include: at least one course from Group 3 (19th century to the present); and two others, including at least one course from Group 1 (ancient) or Group 2 (medieval/early modern). The third course may be from any group.",
                   "req_list": [
                     {
-<<<<<<< HEAD
-                      "name": "VIS 416/VIS 417",
-=======
                       "name": "VIS 416 or VIS 417",
->>>>>>> master
                       "max_counted": 1,
                       "min_needed": 1,
                       "explanation": "VIS 416 Exhibition Issues and Methods or VIS 417 Fall Film Seminar.",
@@ -174,15 +152,9 @@
                     },
                     {
                       "name": "Studio Courses",
-<<<<<<< HEAD
-                      "max_counted": 2,
-                      "min_needed": 2,
-                      "explanation": "<i>Editor's Note: Most of these courses fall under this requirement but as TigerPath does not verify this.</i>\n\nTwo studio courses at the 300 or 400 level.",
-=======
                       "max_counted": 1,
                       "min_needed": 2,
                       "explanation": "<i>Editor's Note: Not all of these courses fall under this requirement but TigerPath does not verify this.</i>\n\nTwo studio courses at the 300 or 400 level.",
->>>>>>> master
                       "course_list": [
                         "VIS 3*",
                         "VIS 4*"
@@ -199,16 +171,6 @@
                     },
                     {
                       "name": "Art and Archaeology",
-<<<<<<< HEAD
-                      "max_counted": null,
-                      "min_needed": null,
-                      "explanation": "<i>Editor's Note: This requirement is too broad, so TigerPath does not check it.</i>\n\nThe Department of Art and Archaeology courses must include: at least one course from Group 3 (19th century to the present); and two others, including at least one course from Group 1 (ancient) or Group 2 (medieval/early modern). The third course may be from any group.",
-                      "no_req": null
-                    },
-                    {
-                      "name": "Additional Visual Arts Courses",
-                      "max_counted": null,
-=======
                       "max_counted": 1,
                       "min_needed": 3,
                       "explanation": "<i>Editor's Note: This requirement is too broad, so TigerPath does not verify it.</i>\n\nThe Department of Art and Archaeology courses must include: at least one course from Group 3 (19th century to the present); and two others, including at least one course from Group 1 (ancient) or Group 2 (medieval/early modern). The third course may be from any group.",
@@ -219,7 +181,6 @@
                     {
                       "name": "Additional Visual Arts Courses",
                       "max_counted": 1,
->>>>>>> master
                       "min_needed": 3,
                       "explanation": null,
                       "course_list": [
@@ -238,11 +199,7 @@
                       "name": "Studio Courses",
                       "max_counted": 1,
                       "min_needed": 5,
-<<<<<<< HEAD
-                      "explanation": "<i>Editor's Note: Most of these courses fall under this requirement but as TigerPath does not verify this.</i>\n\nThree studio courses at any level in at least two different media (screenwriting courses are accepted as a different medium from film production courses) and an additional two studio courses at the 300 or 400 level.",
-=======
                       "explanation": "<i>Editor's Note: Not all of these courses fall under this requirement but TigerPath does not verify this.</i>\n\nThree studio courses at any level in at least two different media (screenwriting courses are accepted as a different medium from film production courses) and an additional two studio courses at the 300 or 400 level.",
->>>>>>> master
                       "req_list": [
                         {
                           "name": null,
@@ -289,11 +246,7 @@
                       "name": "Art and Archaeology",
                       "max_counted": 1,
                       "min_needed": 3,
-<<<<<<< HEAD
-                      "explanation": "The Department of Art and Archaeology courses must include: at least one course from Group 3 (19th century to the present); and two others, including at least one course from Group 1 (ancient) or Group 2 (medieval/early modern). The third course may be from any group.",
-=======
                       "explanation": "<i>Editor's Note: This requirement is too broad, so TigerPath does not verify it.</i>\n\nThe Department of Art and Archaeology courses must include: at least one course from Group 3 (19th century to the present); and two others, including at least one course from Group 1 (ancient) or Group 2 (medieval/early modern). The third course may be from any group.",
->>>>>>> master
                       "course_list": [
                         "ART *"
                       ]
