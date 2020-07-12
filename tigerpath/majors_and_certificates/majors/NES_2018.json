@@ -177,7 +177,7 @@
                   ]
                 },
                 {
-                  "name": "Ottoman Empire, Turkey",
+                  "name": "Ottoman Empire/Turkey",
                   "max_counted": 1,
                   "min_needed": 1,
                   "explanation": "<i>Editor's Note: This does not represent a comprehensive list of courses that fulfill this requirement as courses change from semester to semester.</i>",
@@ -338,7 +338,7 @@
               "name": "Cognates",
               "max_counted": 3,
               "min_needed": null,
-              "explanation": "<i>Editor's Note: This does not represent a comprehensive list of courses that fulfill this requirement.</i>\n\nUp to three may be cognate courses (courses in other departments not cross-listed with NES that focus on the Near East), on the approval of the Department Representative. Language courses beyond the 107 level count as departmentals, as does elementary and intermediate study of a second Near Eastern language.",
+              "explanation": "Up to three may be cognate courses (courses in other departments not cross-listed with NES that focus on the Near East), on the approval of the Department Representative. Language courses beyond the 107 level count as departmentals, as does elementary and intermediate study of a second Near Eastern language.",
               "course_list": [
                 "LANG 2*",
                 "LANG 3*",

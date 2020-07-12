@@ -5,17 +5,17 @@
   "degree": "AB",
   "year": 2018,
   "urls": [
-    "https://ua.princeton.edu/academic-units/department-astrophysical-sciences",
-    "https://web.astro.princeton.edu/academic/undergraduate-program/major-requirements"
+    "https://ua.princeton.edu/academic-units/department-astrophysical-sciences#",
+    "https://web.astro.princeton.edu/"
   ],
   "contacts": [
     {
       "type": "Chair",
-      "name": "Michael A. Strauss",
-      "email": "strauss@princeton.edu"
+      "name": "James M. Stone",
+      "email": "jmstone@princeton.edu"
     },
     {
-      "type": "Director of Undergraduate Studies",
+      "type": "Departmental Representative",
       "name": "Neta A. Bahcall",
       "email": "neta@astro.princeton.edu"
     }
@@ -31,9 +31,19 @@
         {
           "name": "Math",
           "max_counted": 1,
-          "min_needed": "ALL",
-          "explanation": "Mathematics 201, 202 or equivalent",
+          "min_needed": 4,
+          "explanation": "",
           "req_list": [
+            {
+              "name": null,
+              "max_counted": 2,
+              "min_needed": null,
+              "explanation": "",
+              "course_list": [
+                "MAT 103",
+                "MAT 104"
+              ]
+            },
             {
               "name": null,
               "max_counted": 1,
@@ -61,18 +71,46 @@
         {
           "name": "Physics",
           "max_counted": 1,
-          "min_needed": 1,
-          "explanation": "Physics 205 or 207",
-          "course_list": [
-            "PHY 205",
-            "PHY 207"
+          "min_needed": "ALL",
+          "explanation": "",
+          "req_list": [
+            {
+              "name": null,
+              "max_counted": 1,
+              "min_needed": 1,
+              "explanation": "",
+              "course_list": [
+                "PHY 103",
+                "PHY 105"
+              ]
+            },
+            {
+              "name": null,
+              "max_counted": 1,
+              "min_needed": 1,
+              "explanation": "",
+              "course_list": [
+                "PHY 104",
+                "PHY 106"
+              ]
+            },
+            {
+              "name": null,
+              "max_counted": 1,
+              "min_needed": 1,
+              "explanation": "",
+              "course_list": [
+                "PHY 205",
+                "PHY 207"
+              ]
+            }
           ]
         },
         {
           "name": "Astrophysical Sciences",
           "max_counted": null,
           "min_needed": null,
-          "explanation": "Astrophysical Sciences 204 is strongly recommended.",
+          "explanation": "Strongly recommended",
           "course_list": [
             "AST 204"
           ]
@@ -89,7 +127,7 @@
           "name": "Astrophysics",
           "max_counted": 1,
           "min_needed": 3,
-          "explanation": "Every student majoring in astrophysical sciences will acquire the necessary training in astrophysics by taking at least three astrophysics courses at the 300 or 400 level.",
+          "explanation": "",
           "course_list": [
             "AST 301",
             "AST 303",
@@ -102,7 +140,7 @@
           "name": "Physics",
           "max_counted": 1,
           "min_needed": 3,
-          "explanation": "In addition to these courses, departmental students will take courses in the Department of Physics that provide basic training in mechanics, quantum mechanics, electromagnetic theory, and other relevant topics.",
+          "explanation": "",
           "course_list": [
             "PHY 208",
             "PHY 301",
@@ -111,16 +149,11 @@
           ]
         },
         {
-          "name": "Cognates",
+          "name": "Electives",
           "max_counted": 1,
           "min_needed": 2,
-          "explanation": null,
+          "explanation": "",
           "course_list": [
-            "AST 301",
-            "AST 303",
-            "AST 309/MAE 309/PHY 309/ENE 309",
-            "AST 401",
-            "AST 403",
             "PHY 312",
             "PHY 403",
             "PHY 406",
@@ -132,10 +165,7 @@
             "MAT 328",
             "GEO 427",
             "MAE 341",
-            "MAE 342",
-            "COS 126",
-            "MAT 309/ORF 309",
-            "MAE 222"
+            "MAE 342"
           ]
         }
       ]
@@ -145,6 +175,7 @@
       "max_counted": null,
       "min_needed": null,
       "explanation": "<i>Editor's Note: Concentrators of this major do not enroll in any numbered course for this requirement, so TigerPath does not check it.</i>\n\nIn addition to the course work carried out during the junior year, each student carries out two junior independent research projects, one each semester. Each project is on a research topic of current interest, carried out under close supervision of a faculty adviser who is doing research in this area. The student will complete each term's independent work by submitting a written paper. The research projects can involve data analysis using astronomical data from our telescopes, including data from the Sloan Digital Sky Survey -- a unique three-dimensional map of the universe -- and the Hyper Suprime-Cam Survey with the Subaru telescope, as well as data from other national and international facilities such as the Hubble Space Telescope. Similarly, theoretical and computational projects in astrophysics are available. The topics, to be selected jointly by the student and his/her adviser, can range from areas such as cosmology and the early universe, to galaxy formation, large-scale structure of the universe, quasars, black holes, stars, extra-solar planets, high-energy astrophysics, and plasma astrophysics. Interdisciplinary projects, including astronomy and education, science policy, planetary science, astrobiology, space science exploration, and more are possible.",
+      "description": "Independent Work",
       "no_req": null
     },
     {
@@ -152,6 +183,7 @@
       "max_counted": null,
       "min_needed": null,
       "explanation": "<i>Editor's Note: Concentrators of this major do not enroll in any numbered course for this requirement, so TigerPath does not check it.</i>\n\nIn the senior year, in addition to course work, students carry out an extensive research project with a faculty adviser for their senior thesis. The thesis is completed by submitting the final written paper summarizing the work. There is a wide range of observational and theoretical topics available, including interdisciplinary projects as discussed above. The senior thesis work is frequently published as part of a scientific paper in an astrophysical journal. After the thesis has been completed and read by the adviser and an additional faculty member, the student presents an oral summary of the work, followed by an oral defense of the thesis.",
+      "description": "Senior Thesis",
       "no_req": null
     }
   ]
