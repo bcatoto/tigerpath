@@ -735,6 +735,10 @@
             "ELE 3*",
             "ELE 4*",
             "ELE 5*"
+          ],
+          "excluded_course_list": [
+            "ELE 497",
+            "ELE 498"
           ]
         },
         {
