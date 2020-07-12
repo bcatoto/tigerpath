@@ -184,7 +184,6 @@
           "max_counted": 1,
           "min_needed": 3,
           "explanation": null,
-          "double_counting_allowed": true,
           "course_list": [
             "CBE 411/MOL 411",
             "CBE 419",
@@ -230,7 +229,6 @@
           "max_counted": 1,
           "min_needed": 3,
           "explanation": null,
-          "double_counting_allowed": true,
           "course_list": [
               "CBE 260/EGR 260",
               "CEE 334/WWS 452/ENV 334/ENE 334",
@@ -257,7 +255,6 @@
           "max_counted": 1,
           "min_needed": 3,
           "explanation": null,
-          "double_counting_allowed": true,
           "course_list": [
             "AST 309/MAE 309/PHY 309",
             "CBE 335/MAE 338/ENV 335",
@@ -292,7 +289,6 @@
           "max_counted": 1,
           "min_needed": 3,
           "explanation": null,
-          "double_counting_allowed": true,
           "course_list": [
             "CBE 415/CHM 415/MSE 425",
             "CBE 422",
@@ -318,7 +314,6 @@
           "max_counted": 1,
           "min_needed": 3,
           "explanation": null,
-          "double_counting_allowed": true,
           "course_list": [
             "CBE 422",
             "COS 217",
@@ -347,7 +342,6 @@
           "max_counted": 1,
           "min_needed": 3,
           "explanation": null,
-          "double_counting_allowed": true,
           "course_list": [
             "MAE 306/MAT 392",
             "MAE 336",
@@ -389,7 +383,6 @@
           "max_counted": 1,
           "min_needed": 1,
           "explanation": null,
-          "double_counting_allowed": true,
           "course_list": [
             "CBE 411/MOL 411",
             "CBE 419",
@@ -435,7 +428,6 @@
           "max_counted": 1,
           "min_needed": 1,
           "explanation": null,
-          "double_counting_allowed": true,
           "course_list": [
               "CBE 260/EGR 260",
               "CEE 334/WWS 452/ENV 334/ENE 334",
@@ -462,7 +454,6 @@
           "max_counted": 1,
           "min_needed": 1,
           "explanation": null,
-          "double_counting_allowed": true,
           "course_list": [
             "AST 309/MAE 309/PHY 309",
             "CBE 335/MAE 338/ENV 335",
@@ -497,7 +488,6 @@
           "max_counted": 1,
           "min_needed": 1,
           "explanation": null,
-          "double_counting_allowed": true,
           "course_list": [
             "CBE 415/CHM 415/MSE 425",
             "CBE 422",
@@ -523,7 +513,6 @@
           "max_counted": 1,
           "min_needed": 1,
           "explanation": null,
-          "double_counting_allowed": true,
           "course_list": [
             "CBE 422",
             "COS 217",
